@@ -3834,10 +3834,10 @@
   {
     "name": "Aniyomi: AnimeQ",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeq",
-    "apk": "aniyomi-pt.animeq-v14.2.apk",
+    "apk": "aniyomi-pt.animeq-v14.6.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3846,7 +3846,7 @@
         "name": "AnimeQ",
         "lang": "pt-BR",
         "id": "3666901064696818585",
-        "baseUrl": "https://animeq.blog",
+        "baseUrl": "https://animeq.net",
         "versionId": 1
       }
     ]
