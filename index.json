@@ -4252,6 +4252,26 @@
     ]
   },
   {
+    "name": "Aniyomi: SmartAnimes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.smartanimes",
+    "apk": "aniyomi-pt.smartanimes-v14.5.apk",
+    "lang": "pt-BR",
+    "code": 5,
+    "version": "14.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SmartAnimes",
+        "lang": "pt-BR",
+        "id": "7160915998368939090",
+        "baseUrl": "https://smartanimes.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
     "apk": "aniyomi-pt.tomato-v14.3.apk",
