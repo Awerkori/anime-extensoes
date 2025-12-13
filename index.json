@@ -4421,10 +4421,10 @@
   {
     "name": "Aniyomi: AsyaAnimeleri",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri",
-    "apk": "aniyomi-tr.asyaanimeleri-v14.10.apk",
+    "apk": "aniyomi-tr.asyaanimeleri-v14.11.apk",
     "lang": "tr",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4433,7 +4433,7 @@
         "name": "AsyaAnimeleri",
         "lang": "tr",
         "id": "2012826325126448867",
-        "baseUrl": "https://asyaanimeleri.com",
+        "baseUrl": "https://asyaanimeleri.top",
         "versionId": 1
       }
     ]
@@ -4461,10 +4461,10 @@
   {
     "name": "Aniyomi: HentaiZM",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
-    "apk": "aniyomi-tr.hentaizm-v14.8.apk",
+    "apk": "aniyomi-tr.hentaizm-v14.9.apk",
     "lang": "tr",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4473,7 +4473,7 @@
         "name": "HentaiZM",
         "lang": "tr",
         "id": "9058842310298227429",
-        "baseUrl": "https://www.hentaizm5.online/",
+        "baseUrl": "https://www.hentaizm6.online/",
         "versionId": 1
       }
     ]
@@ -4501,10 +4501,10 @@
   {
     "name": "Aniyomi: TR Anime Izle",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
-    "apk": "aniyomi-tr.tranimeizle-v14.28.apk",
+    "apk": "aniyomi-tr.tranimeizle-v14.29.apk",
     "lang": "tr",
-    "code": 28,
-    "version": "14.28",
+    "code": 29,
+    "version": "14.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4513,7 +4513,7 @@
         "name": "TR Anime Izle",
         "lang": "tr",
         "id": "2607995207802293539",
-        "baseUrl": "https://www.tranimeizle.top",
+        "baseUrl": "https://www.tranimeizle.io",
         "versionId": 1
       }
     ]
@@ -4521,10 +4521,10 @@
   {
     "name": "Aniyomi: Türk Anime TV",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-    "apk": "aniyomi-tr.turkanime-v14.41.apk",
+    "apk": "aniyomi-tr.turkanime-v14.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "14.41",
+    "code": 42,
+    "version": "14.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4533,7 +4533,7 @@
         "name": "Türk Anime TV",
         "lang": "tr",
         "id": "1539162878022626585",
-        "baseUrl": "https://www.turkanime.co",
+        "baseUrl": "https://www.turkanime.tv",
         "versionId": 1
       }
     ]
