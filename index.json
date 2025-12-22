@@ -4174,10 +4174,10 @@
   {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
-    "apk": "aniyomi-pt.goyabu-v14.1.apk",
+    "apk": "aniyomi-pt.goyabu-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4186,7 +4186,7 @@
         "name": "Goyabu",
         "lang": "pt-BR",
         "id": "191823841242368911",
-        "baseUrl": "https://goyabu.to/",
+        "baseUrl": "https://goyabu.io",
         "versionId": 1
       }
     ]
