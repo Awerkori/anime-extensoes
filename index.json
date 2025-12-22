@@ -4014,10 +4014,10 @@
   {
     "name": "Aniyomi: AnimesOnlineVip",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
-    "apk": "aniyomi-pt.animesonlinevip-v14.2.apk",
+    "apk": "aniyomi-pt.animesonlinevip-v14.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4026,7 +4026,7 @@
         "name": "Animes Online Vip",
         "lang": "pt-BR",
         "id": "533096643049014020",
-        "baseUrl": "https://animesonline.red",
+        "baseUrl": "https://animesonlinefhd.vip",
         "versionId": 1
       }
     ]
