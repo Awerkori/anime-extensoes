@@ -3952,21 +3952,21 @@
     ]
   },
   {
-    "name": "Aniyomi: Q1N",
+    "name": "Aniyomi: Top Animes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-    "apk": "aniyomi-pt.animesgratis-v14.29.apk",
+    "apk": "aniyomi-pt.animesgratis-v14.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "14.29",
+    "code": 30,
+    "version": "14.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Q1N",
+        "name": "Top Animes",
         "lang": "pt-BR",
         "id": "2969482460524685571",
-        "baseUrl": "https://q1n.net",
+        "baseUrl": "https://topanimes.net",
         "versionId": 1
       }
     ]
