@@ -1206,10 +1206,10 @@
   {
     "name": "Aniyomi: AniWatchtv",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwatch",
-    "apk": "aniyomi-en.aniwatch-v14.8.apk",
+    "apk": "aniyomi-en.aniwatch-v14.10.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1426,10 +1426,10 @@
   {
     "name": "Aniyomi: Kaido",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kaido",
-    "apk": "aniyomi-en.kaido-v14.16.apk",
+    "apk": "aniyomi-en.kaido-v14.18.apk",
     "lang": "en",
-    "code": 16,
-    "version": "14.16",
+    "code": 18,
+    "version": "14.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1886,10 +1886,10 @@
   {
     "name": "Aniyomi: HiAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
-    "apk": "aniyomi-en.zoro-v14.60.apk",
+    "apk": "aniyomi-en.zoro-v14.62.apk",
     "lang": "en",
-    "code": 60,
-    "version": "14.60",
+    "code": 62,
+    "version": "14.62",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3812,6 +3812,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeIto",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeito",
+    "apk": "aniyomi-pt.animeito-v14.4.apk",
+    "lang": "pt-BR",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AnimeIto",
+        "lang": "pt-BR",
+        "id": "5503541725559168140",
+        "baseUrl": "https://animei.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimePlayer",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplayer",
     "apk": "aniyomi-pt.animeplayer-v14.7.apk",
@@ -4207,6 +4227,26 @@
         "lang": "pt-BR",
         "id": "5035104637271805422",
         "baseUrl": "https://www.hentaistube.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Meus Animes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.meusanimes",
+    "apk": "aniyomi-pt.meusanimes-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Meus Animes",
+        "lang": "pt-BR",
+        "id": "8394381853778573358",
+        "baseUrl": "https://meusanimes.vip",
         "versionId": 1
       }
     ]
