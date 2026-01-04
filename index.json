@@ -4152,6 +4152,26 @@
     ]
   },
   {
+    "name": "Aniyomi: DattebayoBR",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.dattebayobr",
+    "apk": "aniyomi-pt.dattebayobr-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dattebayo BR",
+        "lang": "pt-BR",
+        "id": "429519413057267556",
+        "baseUrl": "https://www.dattebayo-br.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Donghua no Sekai",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai",
     "apk": "aniyomi-pt.donghuanosekai-v14.3.apk",
