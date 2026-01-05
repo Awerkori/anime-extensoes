@@ -4212,6 +4212,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Fun Anime TV",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.funanimetv",
+    "apk": "aniyomi-pt.funanimetv-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Fun Anime TV",
+        "lang": "pt-BR",
+        "id": "7920607630206318931",
+        "baseUrl": "https://betterclass.click",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
     "apk": "aniyomi-pt.goyabu-v14.2.apk",
