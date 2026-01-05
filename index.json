@@ -4052,21 +4052,21 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimesOtaku",
+    "name": "Aniyomi: AnimeCore",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
-    "apk": "aniyomi-pt.animesotaku-v14.2.apk",
+    "apk": "aniyomi-pt.animesotaku-v14.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Animes Otaku",
+        "name": "Anime Core",
         "lang": "pt-BR",
         "id": "9099608567050495800",
-        "baseUrl": "https://www.animesotaku.cc",
+        "baseUrl": "https://animecore.to",
         "versionId": 1
       }
     ]
