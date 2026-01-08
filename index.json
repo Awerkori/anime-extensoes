@@ -3792,6 +3792,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Anikyuu",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikyuu",
+    "apk": "aniyomi-pt.anikyuu-v14.4.apk",
+    "lang": "pt-BR",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anikyuu",
+        "lang": "pt-BR",
+        "id": "4361637123039891722",
+        "baseUrl": "https://anikyuu.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
     "apk": "aniyomi-pt.animefire-v14.7.apk",
