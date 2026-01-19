@@ -4152,6 +4152,26 @@
     ]
   },
   {
+    "name": "Aniyomi: BetterAnimeIo",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.betteranimeio",
+    "apk": "aniyomi-pt.betteranimeio-v14.3.apk",
+    "lang": "pt-BR",
+    "code": 3,
+    "version": "14.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "BetterAnimeIo",
+        "lang": "pt-BR",
+        "id": "2407610655424858426",
+        "baseUrl": "https://betteranime.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: DarkMahou",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.darkmahou",
     "apk": "aniyomi-pt.darkmahou-v14.7.apk",
