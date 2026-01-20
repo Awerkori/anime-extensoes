@@ -4054,10 +4054,10 @@
   {
     "name": "Aniyomi: AnimesOnlineVip",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
-    "apk": "aniyomi-pt.animesonlinevip-v14.3.apk",
+    "apk": "aniyomi-pt.animesonlinevip-v14.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
