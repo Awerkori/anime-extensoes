@@ -3814,10 +3814,10 @@
   {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-    "apk": "aniyomi-pt.animefire-v14.7.apk",
+    "apk": "aniyomi-pt.animefire-v14.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3826,7 +3826,7 @@
         "name": "Anime Fire",
         "lang": "pt-BR",
         "id": "2914332399101546717",
-        "baseUrl": "https://animefire.plus",
+        "baseUrl": "https://animefire.io",
         "versionId": 1
       }
     ]
