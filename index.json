@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: AnimeOnsen",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
-    "apk": "aniyomi-all.animeonsen-v14.7.apk",
+    "apk": "aniyomi-all.animeonsen-v14.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4074,10 +4074,10 @@
   {
     "name": "Aniyomi: AnimeCore",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
-    "apk": "aniyomi-pt.animesotaku-v14.4.apk",
+    "apk": "aniyomi-pt.animesotaku-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4086,7 +4086,7 @@
         "name": "Anime Core",
         "lang": "pt-BR",
         "id": "9099608567050495800",
-        "baseUrl": "https://animecore.to",
+        "baseUrl": "https://animecore.net",
         "versionId": 1
       }
     ]
