@@ -4094,20 +4094,20 @@
   {
     "name": "Aniyomi: AnimesROLL",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
-    "apk": "aniyomi-pt.animesroll-v14.6.apk",
+    "apk": "aniyomi-pt.animesroll-v14.10.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "14.6",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "AnimesROLL",
+        "name": "Animes ROLL",
         "lang": "pt-BR",
-        "id": "1328689310980517070",
-        "baseUrl": "https://www.anroll.net",
-        "versionId": 1
+        "id": "734961575978606843",
+        "baseUrl": "https://anroll.tv",
+        "versionId": 2
       }
     ]
   },
