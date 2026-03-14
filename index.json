@@ -4392,6 +4392,26 @@
     ]
   },
   {
+    "name": "Aniyomi: SushiAnimes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
+    "apk": "aniyomi-pt.sushianimes-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sushi Animes",
+        "lang": "pt-BR",
+        "id": "3082275639294081311",
+        "baseUrl": "https://sushianimes.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
     "apk": "aniyomi-pt.tomato-v14.3.apk",
