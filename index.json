@@ -4394,10 +4394,10 @@
   {
     "name": "Aniyomi: SushiAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
-    "apk": "aniyomi-pt.sushianimes-v14.1.apk",
+    "apk": "aniyomi-pt.sushianimes-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
