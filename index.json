@@ -1046,10 +1046,10 @@
   {
     "name": "Aniyomi: AnimeKai",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animekai",
-    "apk": "aniyomi-en.animekai-v14.3.apk",
+    "apk": "aniyomi-en.animekai-v14.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1058,7 +1058,7 @@
         "name": "AnimeKai",
         "lang": "en",
         "id": "3345817169056352231",
-        "baseUrl": "https://animekai.bz",
+        "baseUrl": "https://anikai.to",
         "versionId": 1
       }
     ]
