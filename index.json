@@ -3852,6 +3852,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimePlay",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplay",
+    "apk": "aniyomi-pt.animeplay-v14.4.apk",
+    "lang": "pt-BR",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anime Play",
+        "lang": "pt-BR",
+        "id": "3974766726104260721",
+        "baseUrl": "https://animeplay.cloud",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimePlayer",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplayer",
     "apk": "aniyomi-pt.animeplayer-v14.8.apk",
