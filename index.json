@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: AnimeOnsen",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
-    "apk": "aniyomi-all.animeonsen-v14.8.apk",
+    "apk": "aniyomi-all.animeonsen-v14.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14,7 +14,7 @@
         "name": "AnimeOnsen",
         "lang": "all",
         "id": "8542735178285060053",
-        "baseUrl": "https://animeonsen.xyz",
+        "baseUrl": "https://www.animeonsen.xyz",
         "versionId": 1
       }
     ]
@@ -1106,10 +1106,10 @@
   {
     "name": "Aniyomi: AnimePahe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-    "apk": "aniyomi-en.animepahe-v14.36.apk",
+    "apk": "aniyomi-en.animepahe-v14.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "14.36",
+    "code": 37,
+    "version": "14.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
