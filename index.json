@@ -1246,10 +1246,10 @@
   {
     "name": "Aniyomi: AV1Encodes",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.av1encodes",
-    "apk": "aniyomi-en.av1encodes-v14.1.apk",
+    "apk": "aniyomi-en.av1encodes-v14.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
