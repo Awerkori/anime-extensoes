@@ -4538,17 +4538,17 @@
   {
     "name": "Aniyomi: Rede Canais",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redecanais",
-    "apk": "aniyomi-pt.redecanais-v14.1.apk",
+    "apk": "aniyomi-pt.redecanais-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "Rede Canais",
         "lang": "pt-BR",
         "id": "8004061694306867646",
-        "baseUrl": "https://redecanais.pet",
+        "baseUrl": "https://redecanais.plus",
         "versionId": 1
       }
     ]
