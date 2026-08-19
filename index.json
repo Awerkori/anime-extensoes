@@ -356,10 +356,10 @@
   {
     "name": "Aniyomi: MissAV",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.missav",
-    "apk": "aniyomi-all.missav-v14.27.apk",
+    "apk": "aniyomi-all.missav-v14.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "14.27",
+    "code": 28,
+    "version": "14.28",
     "nsfw": 1,
     "sources": [
       {
@@ -834,10 +834,10 @@
   {
     "name": "Aniyomi: Torrentio (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentio",
-    "apk": "aniyomi-all.torrentio-v14.8.apk",
+    "apk": "aniyomi-all.torrentio-v14.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
@@ -1482,10 +1482,10 @@
   {
     "name": "Aniyomi: AnimePahe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-    "apk": "aniyomi-en.animepahe-v14.46.apk",
+    "apk": "aniyomi-en.animepahe-v14.49.apk",
     "lang": "en",
-    "code": 46,
-    "version": "14.46",
+    "code": 49,
+    "version": "14.49",
     "nsfw": 0,
     "sources": [
       {
@@ -1552,19 +1552,19 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeVerse",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeverse",
-    "apk": "aniyomi-en.animeverse-v14.3.apk",
+    "name": "Aniyomi: AniNeko",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anineko",
+    "apk": "aniyomi-en.anineko-v14.1.apk",
     "lang": "en",
-    "code": 3,
-    "version": "14.3",
-    "nsfw": 1,
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
     "sources": [
       {
-        "name": "AnimeVerse",
+        "name": "AniNeko",
         "lang": "en",
-        "id": "2210523582293472538",
-        "baseUrl": "https://animeverse.to",
+        "id": "1578760449259207021",
+        "baseUrl": "https://anineko.to",
         "versionId": 1
       }
     ]
@@ -1644,10 +1644,10 @@
   {
     "name": "Aniyomi: Cineby",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.cineby",
-    "apk": "aniyomi-en.cineby-v14.8.apk",
+    "apk": "aniyomi-en.cineby-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -1709,6 +1709,24 @@
         "lang": "en",
         "id": "2649711761599612719",
         "baseUrl": "https://hanime.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: HentaiHaven",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.hentaihaven",
+    "apk": "aniyomi-en.hentaihaven-v14.4.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "14.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiHaven",
+        "lang": "en",
+        "id": "1700779054663752842",
+        "baseUrl": "https://hentaihaven.xxx",
         "versionId": 1
       }
     ]
@@ -1840,24 +1858,6 @@
     ]
   },
   {
-    "name": "Aniyomi: KissAnime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.kissanime",
-    "apk": "aniyomi-en.kissanime-v14.14.apk",
-    "lang": "en",
-    "code": 14,
-    "version": "14.14",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "kissanime.com.ru",
-        "lang": "en",
-        "id": "7306944860534104910",
-        "baseUrl": "https://kissanime.com.ru",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: KissKH",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kisskh",
     "apk": "aniyomi-en.kisskh-v14.5.apk",
@@ -1950,10 +1950,10 @@
   {
     "name": "Aniyomi: MKissa",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mkissa",
-    "apk": "aniyomi-en.mkissa-v14.60.apk",
+    "apk": "aniyomi-en.mkissa-v14.63.apk",
     "lang": "en",
-    "code": 60,
-    "version": "14.60",
+    "code": 63,
+    "version": "14.63",
     "nsfw": 0,
     "sources": [
       {
@@ -2092,6 +2092,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Re:ANIME",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
+    "apk": "aniyomi-en.reanime-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Re:ANIME",
+        "lang": "en",
+        "id": "7105156973687362431",
+        "baseUrl": "https://reanime.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Rule34Video",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34video",
     "apk": "aniyomi-en.rule34video-v14.10.apk",
@@ -2123,24 +2141,6 @@
         "lang": "en",
         "id": "4654371105831183338",
         "baseUrl": "https://showbox.shegu.net/api/api_client/index/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Tokuzilla",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.tokuzilla",
-    "apk": "aniyomi-en.tokuzilla-v14.29.apk",
-    "lang": "en",
-    "code": 29,
-    "version": "14.29",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Tokuzilla",
-        "lang": "en",
-        "id": "525433677388000141",
-        "baseUrl": "https://tokuzilla.net",
         "versionId": 1
       }
     ]
@@ -3582,6 +3582,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Voiranime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.fr.voiranime",
+    "apk": "aniyomi-fr.voiranime-v14.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Voiranime",
+        "lang": "fr",
+        "id": "5371141424049189102",
+        "baseUrl": "https://voir-anime.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: VoirCartoon",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.voircartoon",
     "apk": "aniyomi-fr.voircartoon-v14.18.apk",
@@ -3818,17 +3836,17 @@
   {
     "name": "Aniyomi: Anime Saturn",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animesaturn",
-    "apk": "aniyomi-it.animesaturn-v14.11.apk",
+    "apk": "aniyomi-it.animesaturn-v14.12.apk",
     "lang": "it",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSaturn",
         "lang": "it",
         "id": "1863212142777957799",
-        "baseUrl": "https://www.anisaturn.net",
+        "baseUrl": "https://animesaturn.net",
         "versionId": 1
       }
     ]
@@ -4070,10 +4088,10 @@
   {
     "name": "Aniyomi: AnimeIto",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeito",
-    "apk": "aniyomi-pt.animeito-v14.9.apk",
+    "apk": "aniyomi-pt.animeito-v14.11.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "14.9",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "sources": [
       {
