@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Animetsu",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animetsu",
-    "apk": "aniyomi-all.animetsu-v14.8.apk",
+    "apk": "aniyomi-all.animetsu-v14.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -356,10 +356,10 @@
   {
     "name": "Aniyomi: MissAV",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.missav",
-    "apk": "aniyomi-all.missav-v14.26.apk",
+    "apk": "aniyomi-all.missav-v14.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 1,
     "sources": [
       {
@@ -1392,10 +1392,10 @@
   {
     "name": "Aniyomi: Anikoto",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
-    "apk": "aniyomi-en.anikoto-v14.2.apk",
+    "apk": "aniyomi-en.anikoto-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -1518,10 +1518,10 @@
   {
     "name": "Aniyomi: AnimeSogo",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animesogo",
-    "apk": "aniyomi-en.animesogo-v14.2.apk",
+    "apk": "aniyomi-en.animesogo-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -1572,10 +1572,10 @@
   {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
-    "apk": "aniyomi-en.aniwave-v14.4.apk",
+    "apk": "aniyomi-en.aniwave-v14.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
@@ -1878,10 +1878,10 @@
   {
     "name": "Aniyomi: AnimeKai (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kotokai",
-    "apk": "aniyomi-en.kotokai-v14.2.apk",
+    "apk": "aniyomi-en.kotokai-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -1932,10 +1932,10 @@
   {
     "name": "Aniyomi: Miruro.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.miruro",
-    "apk": "aniyomi-en.miruro-v14.6.apk",
+    "apk": "aniyomi-en.miruro-v14.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {

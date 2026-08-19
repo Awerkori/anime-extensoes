@@ -1,8 +1,8 @@
 {
-    "meta": {
-      "name": "FelipeGFA Animes",
-      "shortName": "FelipeGFA",
-      "website": "https://github.com/FelipeGFA/anime-extensoes",
-      "signingKeyFingerprint": "9bf5754a79fd686cb77e6335a2a9e5351ad73ca824c27b09e7b3437f806fea77"
-    }
+  "meta": {
+    "name": "Project Nox Anime",
+    "shortName": "Nox Anime",
+    "website": "https://github.com/Awerkori/anime-extensoes",
+    "signingKeyFingerprint": "144f44e865cbfae6bde110489ef7ec142f0b1681f627a093a218650e21db5dad"
   }
+}
