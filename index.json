@@ -4502,17 +4502,17 @@
   {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
-    "apk": "aniyomi-pt.tomato-v14.4.apk",
+    "apk": "aniyomi-pt.tomato-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
         "name": "Tomato",
         "lang": "pt-BR",
         "id": "3298973071492789784",
-        "baseUrl": "https://edge.betomato.com",
+        "baseUrl": "https://prod-api.tomatoanimes.com",
         "versionId": 1
       }
     ]
