@@ -4502,10 +4502,10 @@
   {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
-    "apk": "aniyomi-pt.tomato-v14.7.apk",
+    "apk": "aniyomi-pt.tomato-v14.9.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
