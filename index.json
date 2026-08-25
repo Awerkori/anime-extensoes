@@ -4250,10 +4250,10 @@
   {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
-    "apk": "aniyomi-pt.anitube-v14.29.apk",
+    "apk": "aniyomi-pt.anitube-v14.30.apk",
     "lang": "pt-BR",
-    "code": 29,
-    "version": "14.29",
+    "code": 30,
+    "version": "14.30",
     "nsfw": 0,
     "sources": [
       {
