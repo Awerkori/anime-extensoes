@@ -4160,10 +4160,10 @@
   {
     "name": "Aniyomi: AnimesDrive",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdrive",
-    "apk": "aniyomi-pt.animesdrive-v14.10.apk",
+    "apk": "aniyomi-pt.animesdrive-v14.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "sources": [
       {
@@ -4243,6 +4243,24 @@
         "lang": "pt-BR",
         "id": "533096643049014020",
         "baseUrl": "https://animesonlinefhd.vip",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Animes Tokyo",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animestokyo",
+    "apk": "aniyomi-pt.animestokyo-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animes Tokyo",
+        "lang": "pt-BR",
+        "id": "9036768800064294186",
+        "baseUrl": "https://animes.tokyo",
         "versionId": 1
       }
     ]
@@ -4484,10 +4502,10 @@
   {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
-    "apk": "aniyomi-pt.tomato-v14.9.apk",
+    "apk": "aniyomi-pt.tomato-v14.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
