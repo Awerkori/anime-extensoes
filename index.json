@@ -4358,17 +4358,17 @@
   {
     "name": "Aniyomi: Meus Animes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.meusanimes",
-    "apk": "aniyomi-pt.meusanimes-v14.1.apk",
+    "apk": "aniyomi-pt.meusanimes-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "Meus Animes",
         "lang": "pt-BR",
         "id": "8394381853778573358",
-        "baseUrl": "https://meusanimes.vip",
+        "baseUrl": "https://meusanimes.blog",
         "versionId": 1
       }
     ]
