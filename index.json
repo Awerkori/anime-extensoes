@@ -4230,6 +4230,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesOnlines Net",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinesnet",
+    "apk": "aniyomi-pt.animesonlinesnet-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimesOnlines Net",
+        "lang": "pt-BR",
+        "id": "2960301882421716207",
+        "baseUrl": "https://animesonlines.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimesOnlineVip",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
     "apk": "aniyomi-pt.animesonlinevip-v14.4.apk",
