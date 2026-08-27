@@ -4230,6 +4230,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesROLL",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
+    "apk": "aniyomi-pt.animesroll-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimesROLL",
+        "lang": "pt-BR",
+        "id": "1328689310980517070",
+        "baseUrl": "https://anroll.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes Tokyo",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animestokyo",
     "apk": "aniyomi-pt.animestokyo-v14.1.apk",
