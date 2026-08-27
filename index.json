@@ -1356,10 +1356,10 @@
   {
     "name": "Aniyomi: Anikage",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikage",
-    "apk": "aniyomi-en.anikage-v14.5.apk",
+    "apk": "aniyomi-en.anikage-v14.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 1,
     "sources": [
       {
@@ -1565,6 +1565,24 @@
         "lang": "en",
         "id": "4383278740715532790",
         "baseUrl": "https://animewave.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AniWaves.ru",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwaves",
+    "apk": "aniyomi-en.aniwaves-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AniWaves.ru",
+        "lang": "en",
+        "id": "5863960468592971590",
+        "baseUrl": "https://aniwaves.ru",
         "versionId": 1
       }
     ]
