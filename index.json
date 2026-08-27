@@ -4014,6 +4014,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Anikatsu",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikatsu",
+    "apk": "aniyomi-pt.anikatsu-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anikatsu",
+        "lang": "pt-BR",
+        "id": "6631779378215458177",
+        "baseUrl": "https://anikatsu.top",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anikyuu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikyuu",
     "apk": "aniyomi-pt.anikyuu-v14.12.apk",
