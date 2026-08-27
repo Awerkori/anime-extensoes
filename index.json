@@ -4176,6 +4176,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesOnline Blue",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlineblue",
+    "apk": "aniyomi-pt.animesonlineblue-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimesOnline Blue",
+        "lang": "pt-BR",
+        "id": "7198494590862037322",
+        "baseUrl": "https://animesonline.blue",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes Online CC",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecc",
     "apk": "aniyomi-pt.animesonlinecc-v14.7.apk",
