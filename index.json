@@ -4536,6 +4536,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Streamberry",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.streamberry",
+    "apk": "aniyomi-pt.streamberry-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Streamberry",
+        "lang": "pt-BR",
+        "id": "1284021571314811243",
+        "baseUrl": "https://streamberry.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: SushiAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
     "apk": "aniyomi-pt.sushianimes-v14.3.apk",
