@@ -288,10 +288,10 @@
   {
     "name": "Aniyomi: Jav Guru",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.javguru",
-    "apk": "aniyomi-all.javguru-v14.45.apk",
+    "apk": "aniyomi-all.javguru-v14.46.apk",
     "lang": "all",
-    "code": 45,
-    "version": "14.45",
+    "code": 46,
+    "version": "14.46",
     "nsfw": 1,
     "sources": [
       {
@@ -709,10 +709,10 @@
   {
     "name": "Aniyomi: StreamingCommunity",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.streamingcommunity",
-    "apk": "aniyomi-all.streamingcommunity-v14.21.apk",
+    "apk": "aniyomi-all.streamingcommunity-v14.22.apk",
     "lang": "all",
-    "code": 21,
-    "version": "14.21",
+    "code": 22,
+    "version": "14.22",
     "nsfw": 0,
     "sources": [
       {
@@ -1482,10 +1482,10 @@
   {
     "name": "Aniyomi: AnimePahe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-    "apk": "aniyomi-en.animepahe-v14.51.apk",
+    "apk": "aniyomi-en.animepahe-v14.52.apk",
     "lang": "en",
-    "code": 51,
-    "version": "14.51",
+    "code": 52,
+    "version": "14.52",
     "nsfw": 0,
     "sources": [
       {
@@ -1554,10 +1554,10 @@
   {
     "name": "Aniyomi: AniNeko",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anineko",
-    "apk": "aniyomi-en.anineko-v14.3.apk",
+    "apk": "aniyomi-en.anineko-v14.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "sources": [
       {
@@ -1590,10 +1590,10 @@
   {
     "name": "Aniyomi: AniWaves.ru",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwaves",
-    "apk": "aniyomi-en.aniwaves-v14.1.apk",
+    "apk": "aniyomi-en.aniwaves-v14.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
@@ -2267,6 +2267,24 @@
         "lang": "en",
         "id": "648702763126013078",
         "baseUrl": "https://www.wco.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: XAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.xanime",
+    "apk": "aniyomi-en.xanime-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "XAnime",
+        "lang": "en",
+        "id": "3262358113047577744",
+        "baseUrl": "https://xanime.me",
         "versionId": 1
       }
     ]
