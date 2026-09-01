@@ -1374,10 +1374,10 @@
   {
     "name": "Aniyomi: Anikage",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikage",
-    "apk": "aniyomi-en.anikage-v14.6.apk",
+    "apk": "aniyomi-en.anikage-v14.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {
@@ -1968,10 +1968,10 @@
   {
     "name": "Aniyomi: MKissa",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mkissa",
-    "apk": "aniyomi-en.mkissa-v14.66.apk",
+    "apk": "aniyomi-en.mkissa-v14.67.apk",
     "lang": "en",
-    "code": 66,
-    "version": "14.66",
+    "code": 67,
+    "version": "14.67",
     "nsfw": 0,
     "sources": [
       {
