@@ -4106,10 +4106,10 @@
   {
     "name": "Aniyomi: AnimeIto",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeito",
-    "apk": "aniyomi-pt.animeito-v14.18.apk",
+    "apk": "aniyomi-pt.animeito-v14.19.apk",
     "lang": "pt-BR",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "sources": [
       {
@@ -4322,10 +4322,10 @@
   {
     "name": "Aniyomi: AnimesROLL",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
-    "apk": "aniyomi-pt.animesroll-v14.11.apk",
+    "apk": "aniyomi-pt.animesroll-v14.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
@@ -4518,6 +4518,24 @@
     ]
   },
   {
+    "name": "Aniyomi: New Reiwa",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.newreiwa",
+    "apk": "aniyomi-pt.newreiwa-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "New Reiwa",
+        "lang": "pt-BR",
+        "id": "6859283846913070876",
+        "baseUrl": "https://newreiwa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Pi Fansubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
     "apk": "aniyomi-pt.pifansubs-v14.36.apk",
@@ -4538,10 +4556,10 @@
   {
     "name": "Aniyomi: Rede Canais",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redecanais",
-    "apk": "aniyomi-pt.redecanais-v14.3.apk",
+    "apk": "aniyomi-pt.redecanais-v14.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "sources": [
       {
@@ -4549,6 +4567,42 @@
         "lang": "pt-BR",
         "id": "8004061694306867646",
         "baseUrl": "https://redecanais.plus",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: RedeToons",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.redetoons",
+    "apk": "aniyomi-pt.redetoons-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "RedeToons",
+        "lang": "pt-BR",
+        "id": "5791416117185453153",
+        "baseUrl": "https://redetoons.win",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: SeriesFlixNow",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.seriesflixnow",
+    "apk": "aniyomi-pt.seriesflixnow-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "SeriesFlixNow",
+        "lang": "pt-BR",
+        "id": "6002004489231051515",
+        "baseUrl": "https://www.seriesflixnow.com",
         "versionId": 1
       }
     ]
