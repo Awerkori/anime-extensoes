@@ -4106,10 +4106,10 @@
   {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-    "apk": "aniyomi-pt.animefire-v14.10.apk",
+    "apk": "aniyomi-pt.animefire-v14.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "sources": [
       {
@@ -4248,6 +4248,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Animes HD",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeshd",
+    "apk": "aniyomi-pt.animeshd-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animes HD",
+        "lang": "pt-BR",
+        "id": "1455503199181637878",
+        "baseUrl": "https://animeshd.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimesOnline Blue",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlineblue",
     "apk": "aniyomi-pt.animesonlineblue-v14.1.apk",
@@ -4374,6 +4392,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeXHD",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animexhd",
+    "apk": "aniyomi-pt.animexhd-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeXHD",
+        "lang": "pt-BR",
+        "id": "5083160834019430703",
+        "baseUrl": "https://animexhd.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
     "apk": "aniyomi-pt.anitube-v14.30.apk",
@@ -4392,6 +4428,42 @@
     ]
   },
   {
+    "name": "Aniyomi: Aniture PT",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.aniture",
+    "apk": "aniyomi-pt.aniture-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aniture PT",
+        "lang": "pt-BR",
+        "id": "7615865166474712676",
+        "baseUrl": "https://aniture-pt.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Berry Animes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.berryanimes",
+    "apk": "aniyomi-pt.berryanimes-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Berry Animes",
+        "lang": "pt-BR",
+        "id": "6821113874449644959",
+        "baseUrl": "https://berryanimes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: BetterAnimeIo",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.betteranimeio",
     "apk": "aniyomi-pt.betteranimeio-v14.5.apk",
@@ -4405,6 +4477,24 @@
         "lang": "pt-BR",
         "id": "2407610655424858426",
         "baseUrl": "https://betteranime.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: CineVEO",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.cineveo",
+    "apk": "aniyomi-pt.cineveo-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "CineVEO",
+        "lang": "pt-BR",
+        "id": "3173506291335936780",
+        "baseUrl": "https://cineveo.club",
         "versionId": 1
       }
     ]
