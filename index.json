@@ -852,10 +852,10 @@
   {
     "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentioanime",
-    "apk": "aniyomi-all.torrentioanime-v14.21.apk",
+    "apk": "aniyomi-all.torrentioanime-v14.22.apk",
     "lang": "all",
-    "code": 21,
-    "version": "14.21",
+    "code": 22,
+    "version": "14.22",
     "nsfw": 0,
     "sources": [
       {
