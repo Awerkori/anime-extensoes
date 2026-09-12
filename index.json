@@ -306,32 +306,32 @@
   {
     "name": "Aniyomi: Jellyfin",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
-    "apk": "aniyomi-all.jellyfin-v14.30.apk",
+    "apk": "aniyomi-all.jellyfin-v16.30.apk",
     "lang": "all",
     "code": 30,
-    "version": "14.30",
+    "version": "16.30",
     "nsfw": 0,
     "sources": [
       {
         "name": "Jellyfin (1)",
         "lang": "all",
-        "id": "1100359934660540567",
+        "id": "9033626646636195598",
         "baseUrl": "",
-        "versionId": 1
+        "versionId": 2
       },
       {
         "name": "Jellyfin (2)",
         "lang": "all",
-        "id": "5716273013801838310",
+        "id": "4904658814710554862",
         "baseUrl": "",
-        "versionId": 1
+        "versionId": 2
       },
       {
         "name": "Jellyfin (3)",
         "lang": "all",
-        "id": "7066619062139039107",
+        "id": "7533223929553449342",
         "baseUrl": "",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -748,10 +748,10 @@
   {
     "name": "Aniyomi: Stremio",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.stremio",
-    "apk": "aniyomi-all.stremio-v14.10.apk",
+    "apk": "aniyomi-all.stremio-v16.10.apk",
     "lang": "all",
     "code": 10,
-    "version": "14.10",
+    "version": "16.10",
     "nsfw": 0,
     "sources": [
       {
@@ -899,6 +899,24 @@
         "lang": "all",
         "id": "8016727706963226859",
         "baseUrl": "https://www.xvideos.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: YFantasy",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.yfantasy",
+    "apk": "aniyomi-all.yfantasy-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "YFantasy",
+        "lang": "all",
+        "id": "2211136411127706662",
+        "baseUrl": "https://yfantasy.me",
         "versionId": 1
       }
     ]
