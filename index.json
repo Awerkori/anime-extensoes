@@ -306,10 +306,10 @@
   {
     "name": "Aniyomi: Jellyfin",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
-    "apk": "aniyomi-all.jellyfin-v16.30.apk",
+    "apk": "aniyomi-all.jellyfin-v16.31.apk",
     "lang": "all",
-    "code": 30,
-    "version": "16.30",
+    "code": 31,
+    "version": "16.31",
     "nsfw": 0,
     "sources": [
       {
@@ -906,10 +906,10 @@
   {
     "name": "Aniyomi: YFantasy",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.yfantasy",
-    "apk": "aniyomi-all.yfantasy-v14.1.apk",
+    "apk": "aniyomi-all.yfantasy-v16.1.apk",
     "lang": "all",
     "code": 1,
-    "version": "14.1",
+    "version": "16.1",
     "nsfw": 1,
     "sources": [
       {
@@ -1518,10 +1518,10 @@
   {
     "name": "Aniyomi: AnimePahe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-    "apk": "aniyomi-en.animepahe-v14.53.apk",
+    "apk": "aniyomi-en.animepahe-v16.54.apk",
     "lang": "en",
-    "code": 53,
-    "version": "14.53",
+    "code": 54,
+    "version": "16.54",
     "nsfw": 0,
     "sources": [
       {
