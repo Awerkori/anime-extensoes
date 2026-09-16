@@ -1374,10 +1374,10 @@
   {
     "name": "Aniyomi: Anichi",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anichi",
-    "apk": "aniyomi-en.anichi-v14.8.apk",
+    "apk": "aniyomi-en.anichi-v16.8.apk",
     "lang": "en",
     "code": 8,
-    "version": "14.8",
+    "version": "16.8",
     "nsfw": 0,
     "sources": [
       {
@@ -1428,10 +1428,10 @@
   {
     "name": "Aniyomi: Anikoto",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
-    "apk": "aniyomi-en.anikoto-v14.8.apk",
+    "apk": "aniyomi-en.anikoto-v16.8.apk",
     "lang": "en",
     "code": 8,
-    "version": "14.8",
+    "version": "16.8",
     "nsfw": 0,
     "sources": [
       {
@@ -1554,10 +1554,10 @@
   {
     "name": "Aniyomi: AnimeSogo",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animesogo",
-    "apk": "aniyomi-en.animesogo-v14.8.apk",
+    "apk": "aniyomi-en.animesogo-v16.8.apk",
     "lang": "en",
     "code": 8,
-    "version": "14.8",
+    "version": "16.8",
     "nsfw": 0,
     "sources": [
       {
@@ -1608,10 +1608,10 @@
   {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
-    "apk": "aniyomi-en.aniwave-v14.10.apk",
+    "apk": "aniyomi-en.aniwave-v16.10.apk",
     "lang": "en",
     "code": 10,
-    "version": "14.10",
+    "version": "16.10",
     "nsfw": 0,
     "sources": [
       {
@@ -1932,10 +1932,10 @@
   {
     "name": "Aniyomi: AnimeKai (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kotokai",
-    "apk": "aniyomi-en.kotokai-v14.8.apk",
+    "apk": "aniyomi-en.kotokai-v16.8.apk",
     "lang": "en",
     "code": 8,
-    "version": "14.8",
+    "version": "16.8",
     "nsfw": 0,
     "sources": [
       {
