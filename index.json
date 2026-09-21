@@ -2164,6 +2164,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Senshi",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.senshi",
+    "apk": "aniyomi-en.senshi-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Senshi",
+        "lang": "en",
+        "id": "347387517233905584",
+        "baseUrl": "https://senshi.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: UHD Movies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
     "apk": "aniyomi-en.uhdmovies-v14.19.apk",
