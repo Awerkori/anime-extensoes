@@ -4160,10 +4160,10 @@
   {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-    "apk": "aniyomi-pt.animefire-v16.12.apk",
+    "apk": "aniyomi-pt.animefire-v16.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "16.12",
+    "code": 13,
+    "version": "16.13",
     "nsfw": 0,
     "sources": [
       {
