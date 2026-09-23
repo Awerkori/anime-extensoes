@@ -4160,17 +4160,17 @@
   {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
-    "apk": "aniyomi-pt.animefire-v14.11.apk",
+    "apk": "aniyomi-pt.animefire-v16.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "16.12",
     "nsfw": 0,
     "sources": [
       {
         "name": "Anime Fire",
         "lang": "pt-BR",
         "id": "2914332399101546717",
-        "baseUrl": "https://animefire.io",
+        "baseUrl": "https://animefire.one",
         "versionId": 1
       }
     ]
@@ -4736,10 +4736,10 @@
   {
     "name": "Aniyomi: RedeToons",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redetoons",
-    "apk": "aniyomi-pt.redetoons-v14.1.apk",
+    "apk": "aniyomi-pt.redetoons-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
