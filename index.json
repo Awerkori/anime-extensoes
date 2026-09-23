@@ -1606,6 +1606,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AniPM",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
+    "apk": "aniyomi-en.anipm-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AniPM",
+        "lang": "en",
+        "id": "3404118931365067168",
+        "baseUrl": "https://ani.pm",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
     "apk": "aniyomi-en.aniwave-v16.10.apk",
