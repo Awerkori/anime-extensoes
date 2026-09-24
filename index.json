@@ -1608,10 +1608,10 @@
   {
     "name": "Aniyomi: AniPM",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
-    "apk": "aniyomi-en.anipm-v16.1.apk",
+    "apk": "aniyomi-en.anipm-v16.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 1,
     "sources": [
       {
@@ -4628,10 +4628,10 @@
   {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
-    "apk": "aniyomi-pt.goyabu-v14.5.apk",
+    "apk": "aniyomi-pt.goyabu-v14.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 1,
     "sources": [
       {
