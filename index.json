@@ -4752,6 +4752,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Tomato",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
+    "apk": "aniyomi-pt.tomato-v14.12.apk",
+    "lang": "pt-BR",
+    "code": 12,
+    "version": "14.12",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Tomato",
+        "lang": "pt-BR",
+        "id": "3298973071492789784",
+        "baseUrl": "https://prod-api.tomatoanimes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: YUMEFREE",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.yumefree",
     "apk": "aniyomi-pt.yumefree-v14.2.apk",
