@@ -18,24 +18,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Animetsu",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.animetsu",
-    "apk": "aniyomi-all.animetsu-v14.12.apk",
-    "lang": "all",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Animetsu",
-        "lang": "all",
-        "id": "3135577129954186978",
-        "baseUrl": "https://animetsu.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeWorld India",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animeworldindia",
     "apk": "aniyomi-all.animeworldindia-v14.25.apk",
@@ -1714,24 +1696,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Cineby",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.cineby",
-    "apk": "aniyomi-en.cineby-v14.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Cineby",
-        "lang": "en",
-        "id": "3770577718621723403",
-        "baseUrl": "https://www.cineby.at",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: DonghuaStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
     "apk": "aniyomi-en.donghuastream-v14.31.apk",
@@ -1854,24 +1818,6 @@
         "id": "8733115911403916257",
         "baseUrl": "https://hstream.moe",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: JPFilms",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.jpfilms",
-    "apk": "aniyomi-en.jpfilms-v14.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "14.8",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "JPFilms",
-        "lang": "en",
-        "id": "865558085806297637",
-        "baseUrl": "https://jp-films.com",
-        "versionId": 1
       }
     ]
   },
@@ -4104,24 +4050,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Wbijam",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pl.wbijam",
-    "apk": "aniyomi-pl.wbijam-v14.16.apk",
-    "lang": "pl",
-    "code": 16,
-    "version": "14.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Wbijam",
-        "lang": "pl",
-        "id": "3333993424729096948",
-        "baseUrl": "https://wbijam.pl",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Anikatsu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikatsu",
     "apk": "aniyomi-pt.anikatsu-v14.2.apk",
@@ -4824,24 +4752,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Tomato",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
-    "apk": "aniyomi-pt.tomato-v14.12.apk",
-    "lang": "pt-BR",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Tomato",
-        "lang": "pt-BR",
-        "id": "3298973071492789784",
-        "baseUrl": "https://prod-api.tomatoanimes.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: YUMEFREE",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.yumefree",
     "apk": "aniyomi-pt.yumefree-v14.2.apk",
@@ -5078,24 +4988,6 @@
         "lang": "tr",
         "id": "2607995207802293539",
         "baseUrl": "https://www.tranimeizle.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Türk Anime TV",
-    "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-    "apk": "aniyomi-tr.turkanime-v14.56.apk",
-    "lang": "tr",
-    "code": 56,
-    "version": "14.56",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Türk Anime TV",
-        "lang": "tr",
-        "id": "1539162878022626585",
-        "baseUrl": "https://www.turkanime.tv",
         "versionId": 1
       }
     ]
