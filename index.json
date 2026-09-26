@@ -1570,6 +1570,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeToki",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.animetoki",
+    "apk": "aniyomi-en.animetoki-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AnimeToki",
+        "lang": "en",
+        "id": "3337936007905599978",
+        "baseUrl": "https://animetoki.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniNeko",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anineko",
     "apk": "aniyomi-en.anineko-v14.6.apk",
@@ -1590,10 +1608,10 @@
   {
     "name": "Aniyomi: AniPM",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
-    "apk": "aniyomi-en.anipm-v16.2.apk",
+    "apk": "aniyomi-en.anipm-v16.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sources": [
       {
