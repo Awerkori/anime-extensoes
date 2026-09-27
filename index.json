@@ -1390,6 +1390,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AniHQ",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anihq",
+    "apk": "aniyomi-en.anihq-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AniHQ",
+        "lang": "en",
+        "id": "3771329310132042509",
+        "baseUrl": "https://anihq.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anikage",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikage",
     "apk": "aniyomi-en.anikage-v14.8.apk",
@@ -1421,6 +1439,24 @@
         "lang": "en",
         "id": "4697393375201558791",
         "baseUrl": "https://anikototv.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AniKuro",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anikuro",
+    "apk": "aniyomi-en.anikuro-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AniKuro",
+        "lang": "en",
+        "id": "5301034000422404358",
+        "baseUrl": "https://anikuro.to",
         "versionId": 1
       }
     ]
@@ -3818,17 +3854,17 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v14.26.apk",
+    "apk": "aniyomi-id.oploverz-v16.27.apk",
     "lang": "id",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "16.27",
     "nsfw": 0,
     "sources": [
       {
         "name": "Oploverz",
         "lang": "id",
         "id": "2573103800968432770",
-        "baseUrl": "https://oploverz.media",
+        "baseUrl": "https://oploverz.site",
         "versionId": 1
       }
     ]
