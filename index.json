@@ -1392,10 +1392,10 @@
   {
     "name": "Aniyomi: AniHQ",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anihq",
-    "apk": "aniyomi-en.anihq-v16.1.apk",
+    "apk": "aniyomi-en.anihq-v16.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 1,
     "sources": [
       {
@@ -2148,10 +2148,10 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v14.8.apk",
+    "apk": "aniyomi-en.reanime-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
