@@ -4682,17 +4682,17 @@
   {
     "name": "Aniyomi: RedeToons",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redetoons",
-    "apk": "aniyomi-pt.redetoons-v14.2.apk",
+    "apk": "aniyomi-pt.redetoons-v14.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "RedeToons",
         "lang": "pt-BR",
         "id": "5791416117185453153",
-        "baseUrl": "https://redetoons.win",
+        "baseUrl": "https://redetoonstv.win",
         "versionId": 1
       }
     ]
