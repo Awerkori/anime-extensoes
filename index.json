@@ -4644,6 +4644,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Pobreflix Irish",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.pobreflixirish",
+    "apk": "aniyomi-pt.pobreflixirish-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Pobreflix Irish",
+        "lang": "pt-BR",
+        "id": "3697320915322152632",
+        "baseUrl": "https://www.pobreflix.irish",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Rede Canais",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.redecanais",
     "apk": "aniyomi-pt.redecanais-v14.4.apk",
