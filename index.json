@@ -888,10 +888,10 @@
   {
     "name": "Aniyomi: YFantasy",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.yfantasy",
-    "apk": "aniyomi-all.yfantasy-v16.2.apk",
+    "apk": "aniyomi-all.yfantasy-v16.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sources": [
       {
@@ -1644,10 +1644,10 @@
   {
     "name": "Aniyomi: AniPM",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
-    "apk": "aniyomi-en.anipm-v16.3.apk",
+    "apk": "aniyomi-en.anipm-v16.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "16.3",
+    "code": 4,
+    "version": "16.4",
     "nsfw": 1,
     "sources": [
       {
