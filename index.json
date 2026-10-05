@@ -4466,17 +4466,17 @@
   {
     "name": "Aniyomi: CineVEO",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.cineveo",
-    "apk": "aniyomi-pt.cineveo-v14.2.apk",
+    "apk": "aniyomi-pt.cineveo-v14.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "CineVEO",
         "lang": "pt-BR",
         "id": "3173506291335936780",
-        "baseUrl": "https://cineveo.club",
+        "baseUrl": "https://cineveo20.lat",
         "versionId": 1
       }
     ]
@@ -4729,6 +4729,24 @@
         "lang": "pt-BR",
         "id": "7160915998368939090",
         "baseUrl": "https://smartanimes.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Startflix",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.startflix",
+    "apk": "aniyomi-pt.startflix-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Startflix",
+        "lang": "pt-BR",
+        "id": "5296271007167633053",
+        "baseUrl": "https://www.startflix.biz",
         "versionId": 1
       }
     ]
