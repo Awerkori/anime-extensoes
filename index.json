@@ -1932,10 +1932,10 @@
   {
     "name": "Aniyomi: KissKH",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kisskh",
-    "apk": "aniyomi-en.kisskh-v16.6.apk",
+    "apk": "aniyomi-en.kisskh-v16.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "16.6",
+    "code": 7,
+    "version": "16.7",
     "nsfw": 1,
     "sources": [
       {
@@ -2038,24 +2038,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Myanime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
-    "apk": "aniyomi-en.myanime-v14.19.apk",
-    "lang": "en",
-    "code": 19,
-    "version": "14.19",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Myanime",
-        "lang": "en",
-        "id": "4364465995809265087",
-        "baseUrl": "https://myanime.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: My Running Man",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.myrunningman",
     "apk": "aniyomi-en.myrunningman-v14.12.apk",
@@ -2130,10 +2112,10 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v14.9.apk",
+    "apk": "aniyomi-en.reanime-v14.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 1,
     "sources": [
       {
