@@ -1554,10 +1554,10 @@
   {
     "name": "Aniyomi: AnimeParadise",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animeparadise",
-    "apk": "aniyomi-en.animeparadise-v14.1.apk",
+    "apk": "aniyomi-en.animeparadise-v16.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 0,
     "sources": [
       {
@@ -1932,10 +1932,10 @@
   {
     "name": "Aniyomi: KissKH",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kisskh",
-    "apk": "aniyomi-en.kisskh-v16.7.apk",
+    "apk": "aniyomi-en.kisskh-v16.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "16.7",
+    "code": 8,
+    "version": "16.8",
     "nsfw": 1,
     "sources": [
       {
@@ -2148,10 +2148,10 @@
   {
     "name": "Aniyomi: Senshi",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.senshi",
-    "apk": "aniyomi-en.senshi-v16.2.apk",
+    "apk": "aniyomi-en.senshi-v16.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sources": [
       {
@@ -4880,6 +4880,24 @@
         "lang": "ru",
         "id": "4521804903917365109",
         "baseUrl": "https://jutsu.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: HDRezka",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ru.rezka",
+    "apk": "aniyomi-ru.rezka-v16.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "HDRezka",
+        "lang": "ru",
+        "id": "2810967597003075487",
+        "baseUrl": "https://hdrezka.me",
         "versionId": 1
       }
     ]
