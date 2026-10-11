@@ -354,6 +354,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Movy",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.movy",
+    "apk": "aniyomi-all.movy-v16.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Movy",
+        "lang": "all",
+        "id": "8881276529694565186",
+        "baseUrl": "https://www.movy.sx",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.myreadingmanga",
     "apk": "aniyomi-all.myreadingmanga-v14.2.apk",
