@@ -1786,6 +1786,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Gotaku",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.gotaku",
+    "apk": "aniyomi-en.gotaku-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Gotaku",
+        "lang": "en",
+        "id": "5194074774836006982",
+        "baseUrl": "https://gotaku.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: haho.moe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
     "apk": "aniyomi-en.hahomoe-v14.10.apk",
