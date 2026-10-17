@@ -2220,10 +2220,10 @@
   {
     "name": "Aniyomi: UniqueStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.uniquestream",
-    "apk": "aniyomi-en.uniquestream-v14.10.apk",
+    "apk": "aniyomi-en.uniquestream-v16.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "16.11",
     "nsfw": 0,
     "sources": [
       {
