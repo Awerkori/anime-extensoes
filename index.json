@@ -4230,6 +4230,24 @@
     ]
   },
   {
+    "name": "Aniyomi: TopAnimes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
+    "apk": "aniyomi-pt.animesgratis-v14.49.apk",
+    "lang": "pt-BR",
+    "code": 49,
+    "version": "14.49",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TopAnimes",
+        "lang": "pt-BR",
+        "id": "2969482460524685571",
+        "baseUrl": "https://topanimes.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes HD",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeshd",
     "apk": "aniyomi-pt.animeshd-v14.2.apk",
