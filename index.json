@@ -1788,10 +1788,10 @@
   {
     "name": "Aniyomi: Gotaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.gotaku",
-    "apk": "aniyomi-en.gotaku-v16.2.apk",
+    "apk": "aniyomi-en.gotaku-v16.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sources": [
       {
