@@ -4392,6 +4392,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Animy",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animy",
+    "apk": "aniyomi-pt.animy-v16.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animy",
+        "lang": "pt-BR",
+        "id": "4704251131541894836",
+        "baseUrl": "https://animy.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
     "apk": "aniyomi-pt.anitube-v14.30.apk",
