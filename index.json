@@ -827,7 +827,7 @@
         "lang": "all",
         "id": "8698648801670924388",
         "baseUrl": "https://api.torbox.app",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
@@ -1907,7 +1907,7 @@
         "lang": "en",
         "id": "8733115911403916257",
         "baseUrl": "https://hstream.moe",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
