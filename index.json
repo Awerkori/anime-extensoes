@@ -2416,24 +2416,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeID",
-    "pkg": "eu.kanade.tachiyomi.animeextension.es.animeid",
-    "apk": "aniyomi-es.animeid-v14.33.apk",
-    "lang": "es",
-    "code": 33,
-    "version": "14.33",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AnimeID",
-        "lang": "es",
-        "id": "3757015232925755985",
-        "baseUrl": "https://www.animeid.tv/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Animejl",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animejl",
     "apk": "aniyomi-es.animejl-v14.30.apk",
