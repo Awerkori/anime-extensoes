@@ -356,10 +356,10 @@
   {
     "name": "Aniyomi: Movy",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.movy",
-    "apk": "aniyomi-all.movy-v16.1.apk",
+    "apk": "aniyomi-all.movy-v16.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 1,
     "sources": [
       {
@@ -1788,10 +1788,10 @@
   {
     "name": "Aniyomi: Gotaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.gotaku",
-    "apk": "aniyomi-en.gotaku-v16.3.apk",
+    "apk": "aniyomi-en.gotaku-v16.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "16.3",
+    "code": 4,
+    "version": "16.4",
     "nsfw": 1,
     "sources": [
       {
@@ -2094,10 +2094,10 @@
   {
     "name": "Aniyomi: 123Anime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.onetwothreeanime",
-    "apk": "aniyomi-en.onetwothreeanime-v14.2.apk",
+    "apk": "aniyomi-en.onetwothreeanime-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
