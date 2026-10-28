@@ -3474,24 +3474,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AniSama",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.anisama",
-    "apk": "aniyomi-fr.anisama-v14.34.apk",
-    "lang": "fr",
-    "code": 34,
-    "version": "14.34",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AniSama",
-        "lang": "fr",
-        "id": "1898818943039425198",
-        "baseUrl": "https://v1.animesz.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: EmpireStreaming",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.empirestreaming",
     "apk": "aniyomi-fr.empirestreaming-v14.33.apk",
