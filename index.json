@@ -1410,10 +1410,10 @@
   {
     "name": "Aniyomi: AniDB",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anidb",
-    "apk": "aniyomi-en.anidb-v16.16.apk",
+    "apk": "aniyomi-en.anidb-v16.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "16.16",
+    "code": 17,
+    "version": "16.17",
     "nsfw": 1,
     "sources": [
       {
@@ -1662,10 +1662,10 @@
   {
     "name": "Aniyomi: AniPM",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
-    "apk": "aniyomi-en.anipm-v16.12.apk",
+    "apk": "aniyomi-en.anipm-v16.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "16.12",
+    "code": 13,
+    "version": "16.13",
     "nsfw": 1,
     "sources": [
       {
@@ -1770,10 +1770,10 @@
   {
     "name": "Aniyomi: Cinejoy",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.cinejoy",
-    "apk": "aniyomi-en.cinejoy-v16.4.apk",
+    "apk": "aniyomi-en.cinejoy-v16.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "16.4",
+    "code": 5,
+    "version": "16.5",
     "nsfw": 1,
     "sources": [
       {
@@ -1806,10 +1806,10 @@
   {
     "name": "Aniyomi: Gotaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.gotaku",
-    "apk": "aniyomi-en.gotaku-v16.14.apk",
+    "apk": "aniyomi-en.gotaku-v16.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "16.14",
+    "code": 15,
+    "version": "16.15",
     "nsfw": 1,
     "sources": [
       {
@@ -2220,10 +2220,10 @@
   {
     "name": "Aniyomi: ShuttleTV",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.shuttletv",
-    "apk": "aniyomi-en.shuttletv-v16.5.apk",
+    "apk": "aniyomi-en.shuttletv-v16.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "16.5",
+    "code": 6,
+    "version": "16.6",
     "nsfw": 1,
     "sources": [
       {
