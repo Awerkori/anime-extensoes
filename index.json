@@ -1428,10 +1428,10 @@
   {
     "name": "Aniyomi: AniDB",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anidb",
-    "apk": "aniyomi-en.anidb-v16.18.apk",
+    "apk": "aniyomi-en.anidb-v16.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "16.18",
+    "code": 19,
+    "version": "16.19",
     "nsfw": 1,
     "sources": [
       {
