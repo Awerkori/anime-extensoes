@@ -75,6 +75,35 @@ Encontrou uma extensão de anime fora do ar, player que parou de reproduzir ou d
 
 ---
 
-## ⚖️ Isenção de Responsabilidade
+## ⚖️ Licença e Copyright
 
-O **Project Nox** desenvolve e disponibiliza ferramentas de software livre para interoperabilidade técnica. Não hospedamos, gerenciamos, modificamos nem retransmitimos arquivos de vídeo em servidores próprios. Todo o conteúdo audiovisual acessado via extensões provém de servidores e portais públicos de terceiros.
+Este catálogo de distribuição e os pacotes binários compilados são disponibilizados sob os termos da **GNU Affero General Public License versão 3.0** (`AGPL-3.0-only`). Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
+
+```
+Copyright (C) Felipe GFA
+Copyright (C) Yūzōnō Contributors & Aniyomi Contributors
+Copyright (C) 2026 Project Nox Contributors & Awerkori
+```
+
+### 📦 Código-Fonte Correspondente e Rastreabilidade (AGPLv3 Seção 6)
+Em cumprimento à Seção 6 da GNU AGPLv3, o código-fonte correspondente a todos os APKs de anime distribuídos neste repositório está publicamente disponível em:  
+➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/Awerkori/anime-fonte-extensoes)
+
+- **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de automação estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
+- **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e mapeamento no catálogo serializado `index.min.json`, com os binários compilados `.apk` correspondentes preservados no diretório [`apk/`](apk/).
+- **Ressalva de Proveniência Forense:** Extensões mantidas ativamente pelo Project Nox contam com rastreabilidade completa entre código-fonte, scripts e binários. Para os pacotes históricos incorporados do ecossistema upstream Yūzōnō / Aniyomi, a rastreabilidade é assegurada por pacote, versão e árvore de código upstream, não se declarando rastreabilidade universal a commits individuais para binários pré-existentes sem evidência histórica direta.
+- **Componentes de Terceiros e Apache 2.0:** O catálogo preserva integralmente o regime de licenciamento da Apache License 2.0 dos componentes upstream derivados, sendo as contribuições originais do Project Nox licenciadas sob a GNU AGPL versão 3.0.
+
+### 🌐 Política Oficial de Distribuição
+- **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de streaming de forma 100% gratuita para a comunidade.
+- **Redistribuição Comunitária:** Incentivamos o compartilhamento comunitário e o espelhamento livre dos pacotes, sempre respeitando os créditos de autoria e os termos das licenças.
+- **Liberdades sob a AGPL 3.0:** Em estrita conformidade com a GNU AGPLv3 (e Apache 2.0), não é imposta nenhuma cláusula proibindo redistribuição comercial por terceiros. A gratuidade oficial é prática direta do Project Nox, preservando integralmente os direitos legais de redistribuição garantidos pela licença.
+
+### 📌 Interação Remota de Rede (GNU AGPLv3 Seção 13)
+O Project Nox adota oficialmente a licença **GNU AGPL versão 3.0**. Nos termos da Seção 13 da AGPLv3, serviços ou catálogos executados em rede com interação remota de usuários devem disponibilizar o Código-Fonte Correspondente da aplicação em execução sem cobrança.
+
+### 🛡️ Proteção de Identidade e Marca (AGPLv3 Seção 7(e))
+A concessão da licença de software livre refere-se estritamente ao código e aos binários. Ela **não concede** autorização ou licença de uso da marca, do nome "Project Nox" ou de logotipos oficiais para insinuar endosso, homologação ou representação oficial do projeto sem consentimento prévio por escrito.
+
+### ⚖️ Isenção de Responsabilidade
+O **Project Nox** desenvolve e disponibiliza ferramentas de software livre exclusivamente para fins de interoperabilidade técnica. Não hospedamos, gerenciamos, modificamos nem retransmitimos arquivos audiovisuais em servidores próprios. Todo o conteúdo acessado via extensões provém diretamente de portais públicos externos.
