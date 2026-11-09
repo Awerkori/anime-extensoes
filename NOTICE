@@ -31,10 +31,20 @@ a) Código-fonte Correspondente e Rastreabilidade Real:
      rastreabilidade por pacote/versão e árvore de código upstream, não se declarando
      rastreabilidade universal a commits individuais para binários legados sem evidência.
 
-b) Componentes Upstream e Trabalho Combinado:
-   Os APKs incorporam código originário dos projetos Yūzōnō e Aniyomi licenciado
-   sob a Apache License 2.0 e modificações/extractors originais do Project Nox
-   licenciados sob a GNU AGPL versão 3.0.
+b) Componentes Upstream, Regime dos Binários e Trabalho Combinado:
+   - As contribuições originais do Project Nox são disponibilizadas sob os
+     termos da GNU Affero General Public License versão 3.0 (AGPL-3.0-only).
+   - Componentes herdados dos projetos Yūzōnō, Aniyomi, Tachiyomi, Felipe GFA e
+     demais titulares upstream mantêm integralmente seus respectivos direitos
+     autorais, avisos legais e licenças originais (Apache License 2.0).
+   - O código originalmente sob Apache-2.0 não perde suas condições de atribuição
+     pela inclusão em trabalho combinado compatível. A compatibilidade de licenças
+     (Apache 2.0 → AGPLv3) não transfere a titularidade do código upstream ao
+     Project Nox, não havendo qualquer reivindicação de direitos exclusivos sobre
+     código originalmente criado por terceiros.
+   - O regime jurídico aplicável a cada pacote binário (.apk) respeita os
+     componentes nele efetivamente incorporados e os termos das licenças
+     correspondentes.
 
 ================================================================================
 2. POLÍTICA DE DISTRIBUIÇÃO DO PROJECT NOX
@@ -59,10 +69,13 @@ c) Liberdades sob a AGPL 3.0 e Ausência de Restrições Comerciais:
 ================================================================================
 3. INTERAÇÃO REMOTA DE REDE (GNU AGPLv3 Seção 13)
 ================================================================================
-Este repositório adota a GNU AGPL versão 3.0 (AGPL-3.0-only). Nos termos da
-Seção 13 da AGPLv3, serviços de catálogo ou aplicações que interajam remotamente
-com usuários através de rede devem assegurar acesso ao Código-Fonte Correspondente
-conforme estabelecido pela licença.
+Este repositório adota a GNU AGPL versão 3.0 (AGPL-3.0-only) para as contribuições
+originais e trabalhos combinados do Project Nox. Em estrita conformidade com a
+Seção 13 da AGPLv3, caso uma versão modificada do software seja operada em
+servidores ou instâncias de rede oferecendo interação remota a usuários, o
+responsável deve assegurar a todos esses usuários remotos a oportunidade de obter
+o Código-Fonte Correspondente da versão modificada sem cobrança, por meio
+habitual de transmissão de software em rede.
 
 ================================================================================
 4. PROTEÇÃO DE IDENTIDADE E MARCA (AGPLv3 Seção 7(e))
