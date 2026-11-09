@@ -77,24 +77,25 @@ Encontrou uma extensão de anime fora do ar, player que parou de reproduzir ou d
 
 ## ⚖️ Licenciamento e Política de Distribuição
 
-Este catálogo de distribuição e os pacotes binários compilados são disponibilizados sob os termos da **GNU General Public License versão 3.0** (`GPL-3.0-only`). Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
+Este catálogo de distribuição e os pacotes binários compilados são disponibilizados sob os termos da **GNU Affero General Public License versão 3.0** (`AGPL-3.0-only`). Consulte o arquivo [LICENSE](LICENSE) para obter o texto integral inalterado da licença e o arquivo [NOTICE](NOTICE) para o inventário de autoria e termos legais.
 
-### 📦 Código-Fonte Correspondente (GPLv3 Seção 6)
-Em cumprimento à Seção 6 da GNU GPLv3, o código-fonte correspondente a todos os APKs de anime distribuídos neste repositório está publicamente disponível em:  
+### 📦 Código-Fonte Correspondente e Rastreabilidade (AGPLv3 Seção 6)
+Em cumprimento à Seção 6 da GNU AGPLv3, o código-fonte correspondente a todos os APKs de anime distribuídos neste repositório está publicamente disponível em:  
 ➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/Awerkori/anime-fonte-extensoes)
 
-As instruções de compilação, scripts de build em Gradle e extractors de vídeo estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
+- **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de automação estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
+- **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e mapeamento no catálogo serializado `index.min.json`. A rastreabilidade é assegurada entre o código-fonte mantido e os binários gerados.
 
 ### 🌐 Política Oficial de Distribuição
-- **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de streaming de forma 100% gratuita.
+- **Gratuidade Oficial:** O Project Nox distribui oficialmente todos os seus APKs e catálogos de streaming de forma 100% gratuita para a comunidade.
 - **Redistribuição Comunitária:** Incentivamos o compartilhamento comunitário e o espelhamento livre dos pacotes, sempre respeitando os créditos de autoria e os termos das licenças.
-- **Termos da GPL 3.0:** Em conformidade estrita com a GPLv3, não é incluída nenhuma cláusula contratual proibindo a cobrança pela distribuição por terceiros. A preferência comunitária por gratuidade não altera os direitos e garantias concedidos pela GNU GPLv3 e pela Apache 2.0.
+- **Liberdades sob a AGPL 3.0:** Em estrita conformidade com a GNU AGPLv3 (e Apache 2.0), não é imposta nenhuma cláusula proibindo redistribuição comercial por terceiros. A gratuidade oficial é prática direta do Project Nox, preservando integralmente os direitos legais de redistribuição garantidos pela licença.
 
-### 📌 Nota sobre GPL-3.0 e AGPL-3.0
-O Project Nox adota oficialmente a licença **GNU GPL versão 3.0**. Diferentemente da licença GNU AGPLv3, a GPLv3 não contém a cláusula de interação remota por rede (Seção 13 da AGPL).
+### 📌 Interação Remota de Rede (GNU AGPLv3 Seção 13)
+O Project Nox adota oficialmente a licença **GNU AGPL versão 3.0**. Nos termos da Seção 13 da AGPLv3, serviços ou catálogos executados em rede com interação remota de usuários devem disponibilizar o Código-Fonte Correspondente da aplicação em execução sem cobrança.
 
-### 🛡️ Autenticidade e Marca
-A concessão da licença de software livre refere-se estritamente ao código e aos binários. Ela **não concede** autorização ou licença de uso da marca, do nome "Project Nox" ou de logotipos oficiais para alegar endosso ou representação oficial do projeto.
+### 🛡️ Proteção de Identidade e Marca (AGPLv3 Seção 7(e))
+A concessão da licença de software livre refere-se estritamente ao código e aos binários. Ela **não concede** autorização ou licença de uso da marca, do nome "Project Nox" ou de logotipos oficiais para insinuar endosso, homologação ou representação oficial do projeto sem consentimento prévio por escrito.
 
 ### ⚖️ Isenção de Responsabilidade
 O **Project Nox** desenvolve e disponibiliza ferramentas de software livre exclusivamente para fins de interoperabilidade técnica. Não hospedamos, gerenciamos, modificamos nem retransmitimos arquivos audiovisuais em servidores próprios. Todo o conteúdo acessado via extensões provém diretamente de portais públicos externos.

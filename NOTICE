@@ -3,60 +3,73 @@ Copyright (C) Felipe GFA
 Copyright (C) Yūzōnō Contributors & Aniyomi Contributors
 Copyright (C) 2026 Project Nox Contributors & Awerkori
 
-SPDX-License-Identifier: GPL-3.0-only
+SPDX-License-Identifier: AGPL-3.0-only
 
 ================================================================================
-1. LICENCIAMENTO DOS BINÁRIOS E CÓDIGO-FONTE CORRESPONDENTE (GPL-3.0 Seção 6)
+1. LICENCIAMENTO DOS BINÁRIOS E CÓDIGO-FONTE CORRESPONDENTE (AGPL-3.0 Seção 6)
 ================================================================================
-Este repositório distribui pacotes Android compilados (.apk) e arquivos de
-catálogo serializados (index.min.json).
+Este repositório distribui pacotes Android compilados (.apk) e catálogo
+serializado de extensões de vídeo (index.min.json).
 
-a) Código-fonte Correspondente:
-   Em estrito cumprimento à Seção 6 da GNU General Public License versão 3.0,
+a) Código-fonte Correspondente e Rastreabilidade Real:
+   Em cumprimento à Seção 6 da GNU Affero General Public License versão 3.0,
    o código-fonte correspondente a todos os APKs de extensões de vídeo
-   distribuídos neste repositório está publicamente disponível e versionado em:
+   distribuídos neste repositório encontra-se publicamente disponível em:
    https://github.com/Awerkori/anime-fonte-extensoes
 
-b) Instruções e Scripts de Compilação:
-   Os scripts em Python e Gradle utilizados para compilar, assinar digitalmente
-   e validar cada APK e catálogo encontram-se integralmente disponíveis no
-   repositório de desenvolvimento acima referenciado.
+   - Rastreabilidade de Catálogo: Cada pacote publicado possui identificador único
+     (pkg), código de versão (code), versão semântica (version) e definições de
+     fontes mapeados no índice serializado index.min.json.
+   - Integridade dos Binários: Os arquivos .apk compilados são armazenados no
+     diretório apk/ sob versionamento auditável.
+   - Automação de Build: Os scripts em Python, receitas de compilação Gradle e
+     workflows de automação para compilar e assinar digitalmente cada APK estão
+     versionados no repositório de desenvolvimento irmão referenciado acima.
+   - Nota Forense de Rastreabilidade: Extensões ativas mantidas pelo Project Nox
+     possuem rastreabilidade completa entre código-fonte, scripts e binários.
+     Pacotes históricos incorporados do ecossistema Yūzōnō/Aniyomi possuem
+     rastreabilidade por pacote/versão e árvore de código upstream, não se declarando
+     rastreabilidade universal a commits individuais para binários legados sem evidência.
 
-c) Componentes Upstream:
-   Os APKs incorporam código compilado originário dos projetos Yūzōnō e Aniyomi
-   licenciado sob a Apache License 2.0 e modificações/extractors originais do
-   Project Nox licenciados sob a GNU GPL versão 3.0.
+b) Componentes Upstream e Trabalho Combinado:
+   Os APKs incorporam código originário dos projetos Yūzōnō e Aniyomi licenciado
+   sob a Apache License 2.0 e modificações/extractors originais do Project Nox
+   licenciados sob a GNU AGPL versão 3.0.
 
 ================================================================================
 2. POLÍTICA DE DISTRIBUIÇÃO DO PROJECT NOX
 ================================================================================
 a) Gratuidade Oficial:
-   O Project Nox disponibiliza todos os seus APKs compilados oficialmente de
-   forma 100% gratuita para os usuários.
+   O Project Nox disponibiliza oficialmente todos os seus APKs compilados de
+   forma 100% gratuita para a comunidade.
 
 b) Estímulo à Redistribuição Comunitária:
-   Encorajamos o compartilhamento livre e o espelhamento gratuito pela comunidade,
-   desde que mantidos os devidos créditos aos autores e os termos de licenciamento.
+   Encorajamos o livre compartilhamento, espelhamento e redistribuição gratuita
+   dos pacotes pela comunidade, desde que respeitados os termos de licença e
+   créditos aos autores.
 
-c) Limites Jurídicos e Liberdade sob a GPL 3.0:
-   Conforme previsto na Seção 9 e Seção 4 da GNU GPLv3, é permitido legalmente
-   cobrar qualquer valor ou valor nenhum pela distribuição de cópias sob a licença.
-   O Project Nox NÃO impõe proibição contratual anti-comercial sobre a GPLv3.
-   A política de gratuidade oficial reflete a prática direta do Project Nox e uma
-   recomendação à comunidade, enquanto os direitos legais de redistribuição dos
-   licenciados são plenamente regidos pelas liberdades da GNU GPLv3 e da Apache 2.0.
-
-================================================================================
-3. ESCLARECIMENTO SOBRE LICENCIAMENTO (GPL-3.0 vs. AGPL-3.0)
-================================================================================
-Fica expressamente consignado que este repositório adota a GNU GPL versão 3.0
-(GPL-3.0-only). A GNU GPLv3 não contém a cláusula de interação remota de rede
-(Seção 13 da AGPLv3).
+c) Liberdades sob a AGPL 3.0 e Ausência de Restrições Comerciais:
+   Em estrita observância às Seções 4 e 9 da GNU AGPLv3, a licença garante aos
+   receptores a liberdade de redistribuir cópias do software (graciosamente ou
+   mediante cobrança). O Project Nox NÃO impõe cláusulas restritivas anticomerciais.
+   A política de gratuidade oficial expressa a prática direta do Project Nox,
+   enquanto os direitos legais dos downstream licensees permanecem integralmente
+   assegurados pelas liberdades da GNU AGPLv3 e da Apache License 2.0.
 
 ================================================================================
-4. RESERVA DE MARCA E IDENTIDADE VISUAL
+3. INTERAÇÃO REMOTA DE REDE (GNU AGPLv3 Seção 13)
 ================================================================================
-A licença GPL 3.0 aplica-se exclusivamente aos direitos autorais do software.
-NENHUM direito sobre marcas registradas, nomes comerciais ou logotipos oficiais
-do "Project Nox", de "Awerkori", de "Felipe GFA" ou de "Yūzōnō" é concedido por
-esta licença.
+Este repositório adota a GNU AGPL versão 3.0 (AGPL-3.0-only). Nos termos da
+Seção 13 da AGPLv3, serviços de catálogo ou aplicações que interajam remotamente
+com usuários através de rede devem assegurar acesso ao Código-Fonte Correspondente
+conforme estabelecido pela licença.
+
+================================================================================
+4. PROTEÇÃO DE IDENTIDADE E MARCA (AGPLv3 Seção 7(e))
+================================================================================
+A licença AGPL 3.0 aplica-se exclusivamente aos direitos autorais do software.
+Os nomes "Project Nox" e "Awerkori", bem como créditos a "Felipe GFA", "Yūzōnō"
+e "Aniyomi", identificam os respectivos autores e origens. Em conformidade com a
+Seção 7(e) da GNU AGPLv3, NENHUM direito é concedido para o uso de nomes comerciais
+ou logotipos para sugerir endosso, homologação ou afiliação oficial sem
+consentimento prévio por escrito.
