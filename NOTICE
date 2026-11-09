@@ -1,0 +1,62 @@
+Project Nox · Extensões de Streaming de Anime (Catálogo e Distribuição de APKs)
+Copyright (C) Felipe GFA
+Copyright (C) Yūzōnō Contributors & Aniyomi Contributors
+Copyright (C) 2026 Project Nox Contributors & Awerkori
+
+SPDX-License-Identifier: GPL-3.0-only
+
+================================================================================
+1. LICENCIAMENTO DOS BINÁRIOS E CÓDIGO-FONTE CORRESPONDENTE (GPL-3.0 Seção 6)
+================================================================================
+Este repositório distribui pacotes Android compilados (.apk) e arquivos de
+catálogo serializados (index.min.json).
+
+a) Código-fonte Correspondente:
+   Em estrito cumprimento à Seção 6 da GNU General Public License versão 3.0,
+   o código-fonte correspondente a todos os APKs de extensões de vídeo
+   distribuídos neste repositório está publicamente disponível e versionado em:
+   https://github.com/Awerkori/anime-fonte-extensoes
+
+b) Instruções e Scripts de Compilação:
+   Os scripts em Python e Gradle utilizados para compilar, assinar digitalmente
+   e validar cada APK e catálogo encontram-se integralmente disponíveis no
+   repositório de desenvolvimento acima referenciado.
+
+c) Componentes Upstream:
+   Os APKs incorporam código compilado originário dos projetos Yūzōnō e Aniyomi
+   licenciado sob a Apache License 2.0 e modificações/extractors originais do
+   Project Nox licenciados sob a GNU GPL versão 3.0.
+
+================================================================================
+2. POLÍTICA DE DISTRIBUIÇÃO DO PROJECT NOX
+================================================================================
+a) Gratuidade Oficial:
+   O Project Nox disponibiliza todos os seus APKs compilados oficialmente de
+   forma 100% gratuita para os usuários.
+
+b) Estímulo à Redistribuição Comunitária:
+   Encorajamos o compartilhamento livre e o espelhamento gratuito pela comunidade,
+   desde que mantidos os devidos créditos aos autores e os termos de licenciamento.
+
+c) Limites Jurídicos e Liberdade sob a GPL 3.0:
+   Conforme previsto na Seção 9 e Seção 4 da GNU GPLv3, é permitido legalmente
+   cobrar qualquer valor ou valor nenhum pela distribuição de cópias sob a licença.
+   O Project Nox NÃO impõe proibição contratual anti-comercial sobre a GPLv3.
+   A política de gratuidade oficial reflete a prática direta do Project Nox e uma
+   recomendação à comunidade, enquanto os direitos legais de redistribuição dos
+   licenciados são plenamente regidos pelas liberdades da GNU GPLv3 e da Apache 2.0.
+
+================================================================================
+3. ESCLARECIMENTO SOBRE LICENCIAMENTO (GPL-3.0 vs. AGPL-3.0)
+================================================================================
+Fica expressamente consignado que este repositório adota a GNU GPL versão 3.0
+(GPL-3.0-only). A GNU GPLv3 não contém a cláusula de interação remota de rede
+(Seção 13 da AGPLv3).
+
+================================================================================
+4. RESERVA DE MARCA E IDENTIDADE VISUAL
+================================================================================
+A licença GPL 3.0 aplica-se exclusivamente aos direitos autorais do software.
+NENHUM direito sobre marcas registradas, nomes comerciais ou logotipos oficiais
+do "Project Nox", de "Awerkori", de "Felipe GFA" ou de "Yūzōnō" é concedido por
+esta licença.
