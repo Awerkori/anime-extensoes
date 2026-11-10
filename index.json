@@ -2184,10 +2184,10 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v16.20.apk",
+    "apk": "aniyomi-en.reanime-v16.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "16.20",
+    "code": 21,
+    "version": "16.21",
     "nsfw": 1,
     "sources": [
       {
