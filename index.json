@@ -1482,17 +1482,17 @@
   {
     "name": "Aniyomi: Anikoto",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
-    "apk": "aniyomi-en.anikoto-v16.19.apk",
+    "apk": "aniyomi-en.anikoto-v16.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "16.19",
+    "code": 20,
+    "version": "16.20",
     "nsfw": 1,
     "sources": [
       {
         "name": "Anikoto",
         "lang": "en",
         "id": "4697393375201558791",
-        "baseUrl": "https://anikototv.to",
+        "baseUrl": "https://anikototv.bz",
         "versionId": 1
       }
     ]
@@ -1716,17 +1716,17 @@
   {
     "name": "Aniyomi: AniWaves.ru",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwaves",
-    "apk": "aniyomi-en.aniwaves-v16.8.apk",
+    "apk": "aniyomi-en.aniwaves-v16.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "16.8",
+    "code": 9,
+    "version": "16.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "AniWaves.ru",
         "lang": "en",
         "id": "5863960468592971590",
-        "baseUrl": "https://aniwaves.ru",
+        "baseUrl": "https://aniwaves.tv",
         "versionId": 1
       }
     ]
@@ -2184,17 +2184,17 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v16.23.apk",
+    "apk": "aniyomi-en.reanime-v16.24.apk",
     "lang": "en",
-    "code": 23,
-    "version": "16.23",
+    "code": 24,
+    "version": "16.24",
     "nsfw": 1,
     "sources": [
       {
         "name": "Re:ANIME",
         "lang": "en",
         "id": "7105156973687362431",
-        "baseUrl": "https://reanime.to",
+        "baseUrl": "https://reanime.cz",
         "versionId": 1
       }
     ]
