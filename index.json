@@ -3469,10 +3469,10 @@
   {
     "name": "Aniyomi: Anime-Sama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
-    "apk": "aniyomi-fr.animesama-v14.42.apk",
+    "apk": "aniyomi-fr.animesama-v16.43.apk",
     "lang": "fr",
-    "code": 42,
-    "version": "14.42",
+    "code": 43,
+    "version": "16.43",
     "nsfw": 0,
     "sources": [
       {
