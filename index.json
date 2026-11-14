@@ -1788,10 +1788,10 @@
   {
     "name": "Aniyomi: Cinejoy",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.cinejoy",
-    "apk": "aniyomi-en.cinejoy-v16.8.apk",
+    "apk": "aniyomi-en.cinejoy-v16.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "16.8",
+    "code": 9,
+    "version": "16.9",
     "nsfw": 1,
     "sources": [
       {
@@ -2184,10 +2184,10 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v16.24.apk",
+    "apk": "aniyomi-en.reanime-v16.25.apk",
     "lang": "en",
-    "code": 24,
-    "version": "16.24",
+    "code": 25,
+    "version": "16.25",
     "nsfw": 1,
     "sources": [
       {
@@ -2238,17 +2238,17 @@
   {
     "name": "Aniyomi: ShuttleTV",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.shuttletv",
-    "apk": "aniyomi-en.shuttletv-v16.9.apk",
+    "apk": "aniyomi-en.shuttletv-v16.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "16.9",
+    "code": 10,
+    "version": "16.10",
     "nsfw": 1,
     "sources": [
       {
         "name": "ShuttleTV",
         "lang": "en",
         "id": "778627055185364080",
-        "baseUrl": "https://shuttletv.su",
+        "baseUrl": "https://shuttletv.pk",
         "versionId": 1
       }
     ]
@@ -3192,10 +3192,10 @@
   {
     "name": "Aniyomi: PelisPlusHD",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
-    "apk": "aniyomi-es.pelisplushd-v14.107.apk",
+    "apk": "aniyomi-es.pelisplushd-v14.108.apk",
     "lang": "es",
-    "code": 107,
-    "version": "14.107",
+    "code": 108,
+    "version": "14.108",
     "nsfw": 0,
     "sources": [
       {
@@ -3210,10 +3210,10 @@
   {
     "name": "Aniyomi: PelisPlusPh",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplusph",
-    "apk": "aniyomi-es.pelisplusph-v14.107.apk",
+    "apk": "aniyomi-es.pelisplusph-v14.108.apk",
     "lang": "es",
-    "code": 107,
-    "version": "14.107",
+    "code": 108,
+    "version": "14.108",
     "nsfw": 0,
     "sources": [
       {
@@ -3228,10 +3228,10 @@
   {
     "name": "Aniyomi: PelisPlusTo",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplusto",
-    "apk": "aniyomi-es.pelisplusto-v14.107.apk",
+    "apk": "aniyomi-es.pelisplusto-v14.108.apk",
     "lang": "es",
-    "code": 107,
-    "version": "14.107",
+    "code": 108,
+    "version": "14.108",
     "nsfw": 0,
     "sources": [
       {
