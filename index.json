@@ -215,7 +215,8 @@
         "baseUrl": "https://www.hentaitorrents.com",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: Jable",
@@ -665,7 +666,8 @@
         "baseUrl": "https://sukebei.nyaa.si",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: PTorrent (Torrent)",
@@ -683,7 +685,8 @@
         "baseUrl": "https://www.ptorrents.com",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: RouVideo",
@@ -779,7 +782,8 @@
         "baseUrl": "https://app.strem.io/shell-v4.4",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: Subsplease",
@@ -797,7 +801,8 @@
         "baseUrl": "https://subsplease.org",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: SupJav",
@@ -865,7 +870,8 @@
         "baseUrl": "https://torrentio.strem.fun",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
@@ -883,7 +889,8 @@
         "baseUrl": "https://torrentio.strem.fun",
         "versionId": 1
       }
-    ]
+    ],
+    "torrent": true
   },
   {
     "name": "Aniyomi: Xnxx",
