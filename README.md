@@ -38,13 +38,24 @@ Use o link abaixo a partir do navegador do seu celular Android para registrar o 
 
 1. No seu aplicativo (**Aniyomi e forks**), acesse **Configurações** → **Navegar** → **Repositórios de extensões de anime**.
 2. Toque no botão de adicionar (`+`).
-3. Para clientes compatíveis com o índice moderno, cole a URL principal Protobuf:
+3. Escolha e cole URL do catálogo desejado:
 
+**Protobuf (`index.pb`) — formato principal, moderno e recomendado**
 ```
 https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.pb
 ```
 
-Clientes antigos e forks sem suporte ao Protobuf podem usar [`index.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.json) ou [`index.min.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.min.json). Os dois formatos JSON são legados, continuam publicados e são atualizados automaticamente junto com `index.pb`.
+**JSON (`index.json`) — formato legado**
+```
+https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.json
+```
+
+**JSON compacto (`index.min.json`) — formato legado compacto**
+```
+https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.min.json
+```
+
+Os dois formatos legados continuam oficialmente suportados, mantidos e atualizados automaticamente junto com o Protobuf, para preservar compatibilidade com clientes antigos e forks.
 
 ---
 
