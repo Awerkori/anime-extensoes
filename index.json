@@ -216,7 +216,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: Jable",
@@ -667,7 +667,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: PTorrent (Torrent)",
@@ -686,7 +686,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: RouVideo",
@@ -783,7 +783,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: Subsplease",
@@ -802,7 +802,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: SupJav",
@@ -871,7 +871,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
@@ -890,7 +890,7 @@
         "versionId": 1
       }
     ],
-    "torrent": true
+    "torrent": 1
   },
   {
     "name": "Aniyomi: Xnxx",
