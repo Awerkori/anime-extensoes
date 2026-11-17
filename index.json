@@ -4752,6 +4752,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Saimo TV",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.saimotv",
+    "apk": "aniyomi-pt.saimotv-v16.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Saimo TV",
+        "lang": "pt-BR",
+        "id": "3900016737734989364",
+        "baseUrl": "https://saimotv.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: SeriesFlixNow",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.seriesflixnow",
     "apk": "aniyomi-pt.seriesflixnow-v14.9.apk",
