@@ -21,7 +21,7 @@ Este repositório é voltado para **usuários e espectadores** que desejam assis
 
 > [!NOTE]
 > Se você procura o **código-fonte em Kotlin**, extractors de vídeo ou deseja contribuir tecnicamente com correções e novos parsers, acesse o repositório de desenvolvimento:  
-> ➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/Awerkori/anime-fonte-extensoes)
+> ➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/ProjectNox-org/anime-fonte-extensoes)
 
 ---
 
@@ -30,7 +30,7 @@ Este repositório é voltado para **usuários e espectadores** que desejam assis
 ### Método 1: Instalação Automática (JSON legado)
 Use o link abaixo a partir do navegador do seu celular Android para registrar o catálogo compatível com clientes antigos:
 
-👉 [**Adicionar Repositório Automaticamente**](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2FAwerkori%2Fanime-extensoes%2Frepo%2Findex.min.json)
+👉 [**Adicionar Repositório Automaticamente**](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2FProjectNox-org%2Fanime-extensoes%2Frepo%2Findex.min.json)
 
 ---
 
@@ -42,20 +42,23 @@ Use o link abaixo a partir do navegador do seu celular Android para registrar o 
 
 **Protobuf (`index.pb`) — formato principal, moderno e recomendado**
 ```
-https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.pb
+https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.pb
 ```
 
 **JSON (`index.json`) — formato legado**
 ```
-https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.json
+https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.json
 ```
 
 **JSON compacto (`index.min.json`) — formato legado compacto**
 ```
-https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.min.json
+https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.min.json
 ```
 
 Os dois formatos legados continuam oficialmente suportados, mantidos e atualizados automaticamente junto com o Protobuf, para preservar compatibilidade com clientes antigos e forks.
+
+> [!IMPORTANT]
+> **Migração de usuários antigos (`Awerkori` → `ProjectNox-org`):** Os endereços antigos sob `Awerkori/anime-extensoes` continuam ativos via redirecionamento do GitHub. Caso deseje trocar para a URL oficial da organização no Aniyomi, **adicione o repositório `ProjectNox-org` antes de remover o antigo** (ou reinicie o aplicativo se as extensões aparecerem como *Obsoleta*). O Aniyomi marca extensões como obsoletas quando ficam temporariamente ausentes da lista e só limpa esse estado ao recarregar a lista na inicialização — não se trata de erro de assinatura nem exige reinstalação.
 
 ---
 
@@ -67,10 +70,10 @@ Caso deseje instalar manualmente um APK de extensão de anime:
 
 ## ⚙️ Como Funciona este Repositório
 
-- **Distribuição de Binários Assinados:** Cada APK nesta branch é compilado e assinado digitalmente a partir do repositório [`anime-fonte-extensoes`](https://github.com/Awerkori/anime-fonte-extensoes).
+- **Distribuição de Binários Assinados:** Cada APK nesta branch é compilado e assinado digitalmente a partir do repositório [`anime-fonte-extensoes`](https://github.com/ProjectNox-org/anime-fonte-extensoes).
 - **Catálogo Principal (`index.pb`):** Protobuf v2 usa o esquema oficial do Aniyomi, incluindo `isTorrent` e `sources`, e é atualizado automaticamente com o catálogo JSON consolidado.
 - **Compatibilidade Legada (`index.json` e `index.min.json`):** Os dois catálogos JSON permanecem disponíveis e sincronizados para clientes antigos e forks sem suporte ao Protobuf; não exigem manutenção manual nem serão descontinuados por esta mudança.
-- **Metadados ([`repo.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/repo.json)):** Mantém identidade e chave de assinatura do repositório e anuncia o índice moderno por `index_v2`.
+- **Metadados ([`repo.json`](https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/repo.json)):** Mantém identidade e chave de assinatura do repositório e anuncia o índice moderno por `index_v2`.
 - **Extractors Atualizados:** As extensões contam com extractors embutidos para contornar players instáveis, proteger streams HLS/M3U8 e fornecer resoluções selecionáveis (720p, 1080p, etc.).
 
 ---
@@ -79,17 +82,17 @@ Caso deseje instalar manualmente um APK de extensão de anime:
 
 Encontrou uma extensão de anime fora do ar, player que parou de reproduzir ou deseja sugerir uma nova fonte?
 
-- 🎫 **Abrir solicitação oficial:** [Project Nox · Central de Pedidos](https://github.com/Awerkori/project-nox-requests)
-- 📊 **Acompanhar status em tempo real:** [Project Nox · Tracker](https://awerkori.github.io/project-nox-tracker/)
+- 🎫 **Abrir solicitação oficial:** [Project Nox · Central de Pedidos](https://github.com/ProjectNox-org/project-nox-requests)
+- 📊 **Acompanhar status em tempo real:** [Project Nox · Tracker](https://projectnox-org.github.io/project-nox-tracker/)
 
 ---
 
 ## 🔗 Projetos Relacionados
 
-- 🎬 [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/Awerkori/anime-fonte-extensoes) — Código-fonte e extractors de vídeo.
-- 📦 [**Project Nox · Extensões de Mangá**](https://github.com/Awerkori/manga-extensoes) — Catálogo de extensões de mangá para Mihon e forks.
-- 💻 [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/Awerkori/manga-fonte-extensoes) — Código-fonte das extensões de leitura.
-- 🌐 [**Project Nox · Plataforma Web de Mangá**](https://github.com/Awerkori/project-nox-manga) — Plataforma web oficial de leitura.
+- 🎬 [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/ProjectNox-org/anime-fonte-extensoes) — Código-fonte e extractors de vídeo.
+- 📦 [**Project Nox · Extensões de Mangá**](https://github.com/ProjectNox-org/manga-extensoes) — Catálogo de extensões de mangá para Mihon e forks.
+- 💻 [**Project Nox · Código-fonte das Extensões de Mangá**](https://github.com/ProjectNox-org/manga-fonte-extensoes) — Código-fonte das extensões de leitura.
+- 🌐 [**Project Nox · Plataforma Web de Mangá**](https://github.com/ProjectNox-org/project-nox-manga) — Plataforma web oficial de leitura.
 
 ---
 
@@ -114,7 +117,7 @@ Copyright (C) 2026 Project Nox Contributors & Awerkori
 
 ### 📦 Código-Fonte Correspondente e Rastreabilidade (AGPLv3 Seção 6)
 Em cumprimento à Seção 6 da GNU AGPLv3, o código-fonte correspondente a todos os APKs de anime distribuídos neste repositório está publicamente disponível em:  
-➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/Awerkori/anime-fonte-extensoes)
+➡️ [**Project Nox · Código-fonte das Extensões de Anime**](https://github.com/ProjectNox-org/anime-fonte-extensoes)
 
 - **Instruções e Receitas de Compilação:** Os scripts Gradle, configurações de build e pipelines de automação estão mantidos de forma auditável e transparente no repositório de desenvolvimento irmão.
 - **Rastreabilidade e Integridade:** Cada pacote possui identificador único (`pkg`), versão (`version`), código de versão (`code`) e mapeamento no catálogo serializado `index.min.json`, com os binários compilados `.apk` correspondentes preservados no diretório [`apk/`](apk/).
