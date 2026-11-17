@@ -27,8 +27,8 @@ Este repositório é voltado para **usuários e espectadores** que desejam assis
 
 ## 📲 Como Adicionar ao Aniyomi e forks
 
-### Método 1: Instalação Automática (Recomendado)
-Toque no link abaixo a partir do navegador do seu celular Android para registrar o catálogo diretamente no aplicativo:
+### Método 1: Instalação Automática (JSON legado)
+Use o link abaixo a partir do navegador do seu celular Android para registrar o catálogo compatível com clientes antigos:
 
 👉 [**Adicionar Repositório Automaticamente**](aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2FAwerkori%2Fanime-extensoes%2Frepo%2Findex.min.json)
 
@@ -38,11 +38,13 @@ Toque no link abaixo a partir do navegador do seu celular Android para registrar
 
 1. No seu aplicativo (**Aniyomi e forks**), acesse **Configurações** → **Navegar** → **Repositórios de extensões de anime**.
 2. Toque no botão de adicionar (`+`).
-3. Cole a URL do catálogo oficial:
+3. Para clientes compatíveis com o índice moderno, cole a URL principal Protobuf:
 
 ```
-https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.min.json
+https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.pb
 ```
+
+Clientes antigos e forks sem suporte ao Protobuf podem usar [`index.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.json) ou [`index.min.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/index.min.json). Os dois formatos JSON são legados, continuam publicados e são atualizados automaticamente junto com `index.pb`.
 
 ---
 
@@ -55,7 +57,9 @@ Caso deseje instalar manualmente um APK de extensão de anime:
 ## ⚙️ Como Funciona este Repositório
 
 - **Distribuição de Binários Assinados:** Cada APK nesta branch é compilado e assinado digitalmente a partir do repositório [`anime-fonte-extensoes`](https://github.com/Awerkori/anime-fonte-extensoes).
-- **Índice Dinâmico (`index.min.json`):** Mantém metadados de versões, ícones, hashes e URLs de download consumidos pelo gerenciador de extensões de **Aniyomi e forks**.
+- **Catálogo Principal (`index.pb`):** Protobuf v2 usa o esquema oficial do Aniyomi, incluindo `isTorrent` e `sources`, e é atualizado automaticamente com o catálogo JSON consolidado.
+- **Compatibilidade Legada (`index.json` e `index.min.json`):** Os dois catálogos JSON permanecem disponíveis e sincronizados para clientes antigos e forks sem suporte ao Protobuf; não exigem manutenção manual nem serão descontinuados por esta mudança.
+- **Metadados ([`repo.json`](https://raw.githubusercontent.com/Awerkori/anime-extensoes/repo/repo.json)):** Mantém identidade e chave de assinatura do repositório e anuncia o índice moderno por `index_v2`.
 - **Extractors Atualizados:** As extensões contam com extractors embutidos para contornar players instáveis, proteger streams HLS/M3U8 e fornecer resoluções selecionáveis (720p, 1080p, etc.).
 
 ---
@@ -81,6 +85,7 @@ Encontrou uma extensão de anime fora do ar, player que parou de reproduzir ou d
 ## 🌟 Créditos e Reconhecimento
 
 - **Felipe GFA** ([@FelipeGFA](https://github.com/FelipeGFA)): Pela migração estrutural, suporte de fontes essenciais em língua portuguesa e arquitetura do pipeline de extensões de anime.
+- **Alex** ([@Alex17273747576777](https://github.com/Alex17273747576777)): Pela proposta inicial do catálogo Protobuf de anime, adaptada para usar o esquema oficial do Aniyomi.
 - **Yūzōnō** ([@yuzono](https://github.com/yuzono)) e equipe **Aniyomi** ([@aniyomiorg](https://github.com/aniyomiorg)): Pela concepção da API de vídeo e base upstream do ecossistema de streaming.
 - Comunidade de desenvolvedores e colaboradores independentes.
 
