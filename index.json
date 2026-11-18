@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: AnimeOnsen",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
-    "apk": "aniyomi-all.animeonsen-v14.11.apk",
+    "apk": "aniyomi-all.animeonsen-v16.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "16.12",
     "nsfw": 0,
     "sources": [
       {
@@ -300,21 +300,21 @@
         "lang": "all",
         "id": "9033626646636195598",
         "baseUrl": "",
-        "versionId": 2
+        "versionId": 1
       },
       {
         "name": "Jellyfin (2)",
         "lang": "all",
         "id": "4904658814710554862",
         "baseUrl": "",
-        "versionId": 2
+        "versionId": 1
       },
       {
         "name": "Jellyfin (3)",
         "lang": "all",
         "id": "7533223929553449342",
         "baseUrl": "",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
@@ -1417,10 +1417,10 @@
   {
     "name": "Aniyomi: Anichi",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anichi",
-    "apk": "aniyomi-en.anichi-v16.15.apk",
+    "apk": "aniyomi-en.anichi-v16.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "16.15",
+    "code": 16,
+    "version": "16.16",
     "nsfw": 1,
     "sources": [
       {
@@ -1489,10 +1489,10 @@
   {
     "name": "Aniyomi: Anikoto",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
-    "apk": "aniyomi-en.anikoto-v16.20.apk",
+    "apk": "aniyomi-en.anikoto-v16.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "16.20",
+    "code": 21,
+    "version": "16.21",
     "nsfw": 1,
     "sources": [
       {
@@ -1633,10 +1633,10 @@
   {
     "name": "Aniyomi: AnimeSogo",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animesogo",
-    "apk": "aniyomi-en.animesogo-v16.15.apk",
+    "apk": "aniyomi-en.animesogo-v16.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "16.15",
+    "code": 16,
+    "version": "16.16",
     "nsfw": 1,
     "sources": [
       {
@@ -1705,10 +1705,10 @@
   {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
-    "apk": "aniyomi-en.aniwave-v16.21.apk",
+    "apk": "aniyomi-en.aniwave-v16.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "16.21",
+    "code": 22,
+    "version": "16.22",
     "nsfw": 1,
     "sources": [
       {
@@ -2029,10 +2029,10 @@
   {
     "name": "Aniyomi: AnimeKai (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kotokai",
-    "apk": "aniyomi-en.kotokai-v16.19.apk",
+    "apk": "aniyomi-en.kotokai-v16.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "16.19",
+    "code": 20,
+    "version": "16.20",
     "nsfw": 1,
     "sources": [
       {
@@ -2191,10 +2191,10 @@
   {
     "name": "Aniyomi: Re:ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
-    "apk": "aniyomi-en.reanime-v16.25.apk",
+    "apk": "aniyomi-en.reanime-v16.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "16.25",
+    "code": 26,
+    "version": "16.26",
     "nsfw": 1,
     "sources": [
       {
@@ -2425,10 +2425,10 @@
   {
     "name": "Aniyomi: AnimeAv1",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeav1",
-    "apk": "aniyomi-es.animeav1-v16.15.apk",
+    "apk": "aniyomi-es.animeav1-v16.17.apk",
     "lang": "es",
-    "code": 15,
-    "version": "16.15",
+    "code": 17,
+    "version": "16.17",
     "nsfw": 0,
     "sources": [
       {
@@ -4052,10 +4052,10 @@
   {
     "name": "Aniyomi: Docchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pl.docchi",
-    "apk": "aniyomi-pl.docchi-v16.27.apk",
+    "apk": "aniyomi-pl.docchi-v16.29.apk",
     "lang": "pl",
-    "code": 27,
-    "version": "16.27",
+    "code": 29,
+    "version": "16.29",
     "nsfw": 1,
     "sources": [
       {
@@ -5175,10 +5175,10 @@
   {
     "name": "Aniyomi: Anime1.me",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
-    "apk": "aniyomi-zh.anime1-v14.5.apk",
+    "apk": "aniyomi-zh.anime1-v14.7.apk",
     "lang": "zh-hant",
-    "code": 5,
-    "version": "14.5",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "sources": [
       {
