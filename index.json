@@ -4248,6 +4248,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesFHD",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesfhd",
+    "apk": "aniyomi-pt.animesfhd-v16.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimesFHD",
+        "lang": "pt-BR",
+        "id": "6048846597387652068",
+        "baseUrl": "https://animesfhd.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: TopAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
     "apk": "aniyomi-pt.animesgratis-v14.54.apk",
