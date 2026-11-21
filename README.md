@@ -24,29 +24,24 @@ Se o aplicativo não abrir automaticamente ou o seu fork não reconhecer o link,
 
 ### Opção 2: Instalação manual (copiar e colar)
 
-1. Abra o **Aniyomi** (ou fork compatível, como **Anikku**) e vá em **Mais** → **Configurações** → **Navegar** → **Repositórios de extensões de anime** *(em alguns forks, a opção aparece como **Repositórios de extensões**)*.
+1. Abra o **Aniyomi** e vá em **Mais** → **Configurações** → **Navegar** → **Repositório de extensões de anime** *(no **Anikku** e em alguns forks, o menu aparece como **Repositórios de extensões**)*.
 2. Toque em **Adicionar** (`+`).
-3. Copie e cole o endereço abaixo:
+3. Copie e cole o endereço abaixo *(para **Anikku** ou versões antigas, abra o bloco logo abaixo e use `index.min.json`)*:
 
 ```text
 https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.pb
 ```
 
-4. Confirme e volte à aba **Navegar** → **Extensões de anime** para instalar as fontes desejadas.
+4. Confirme e volte à aba **Navegar** → **Extensões de Anime** (ou **Extensões**) para instalar as fontes desejadas.
 
 <details>
-<summary>Meu aplicativo deu erro ao importar <code>index.pb</code> (formatos JSON para clientes antigos ou forks)</summary>
+<summary>Usando <strong>Anikku</strong>, outro fork ou versão antiga? Use <code>index.min.json</code></summary>
 
-O arquivo `index.pb` (Protobuf) é o padrão atual. Caso seu aplicativo seja antigo ou exija JSON, use uma das URLs abaixo (mantidas sincronizadas automaticamente):
+O **Anikku** e clientes antigos aceitam apenas URLs terminadas em `index.min.json` (o Aniyomi atual também aceita esta URL e resolve automaticamente o catálogo `index.pb` via `repo.json`):
 
-- **JSON compacto** *(também usado no link automático `aniyomi://`)*:
-  ```text
-  https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.min.json
-  ```
-- **JSON completo**:
-  ```text
-  https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.json
-  ```
+```text
+https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.min.json
+```
 
 </details>
 
@@ -62,7 +57,7 @@ Um `.apk` de extensão adiciona apenas uma fonte específica sem precisar regist
 ## O que são as extensões?
 
 - **O catálogo é apenas a lista de fontes:** adicionar o repositório permite que o aplicativo encontre as extensões do Project Nox, mas não instala nenhuma fonte automaticamente.
-- **Você escolhe o que instalar:** após adicionar o catálogo, abra a aba **Extensões de anime** no aplicativo, procure os sites desejados e toque em instalar.
+- **Você escolhe o que instalar:** após adicionar o catálogo, abra a aba **Extensões de Anime** (ou **Extensões**) no aplicativo, procure os sites desejados e toque em instalar.
 - **Reprodução de vídeo:** as extensões conectam o aplicativo a sites públicos externos e incluem extractors atualizados para lidar com players e streams HLS/M3U8.
 
 ## Atualizações e migração
@@ -77,7 +72,7 @@ Os endereços antigos sob `Awerkori/anime-extensoes` continuam ativos via redire
 Para migrar para a URL oficial da organização no Aniyomi:
 
 1. **Adicione o repositório `ProjectNox-org` antes de remover o antigo.**
-2. Caso alguma extensão apareça como *Obsoleta*, reinicie o aplicativo: o Aniyomi marca extensões como obsoletas quando ficam temporariamente ausentes da lista e limpa esse estado ao recarregar na inicialização — não se trata de erro de assinatura nem exige reinstalação.
+2. Caso alguma extensão apareça como *Obsoleto*, reinicie o aplicativo: o Aniyomi marca extensões como obsoletas quando ficam temporariamente ausentes da lista e limpa esse estado ao recarregar na inicialização — não se trata de erro de assinatura nem exige reinstalação.
 
 </details>
 
