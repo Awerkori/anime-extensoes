@@ -26,7 +26,7 @@ Se o aplicativo não abrir automaticamente ou o seu fork não reconhecer o link,
 
 1. Abra o **Aniyomi** e vá em **Mais** → **Configurações** → **Navegar** → **Repositório de extensões de anime** *(no **Anikku** e em alguns forks, o menu aparece como **Repositórios de extensões**)*.
 2. Toque em **Adicionar** (`+`).
-3. Copie e cole o endereço abaixo *(para **Anikku** ou versões antigas, abra o bloco logo abaixo e use `index.min.json`)*:
+3. Copie e cole o endereço abaixo. Se o aplicativo não aceitar essa URL, utilize a alternativa disponível logo abaixo:
 
 ```text
 https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.pb
@@ -35,9 +35,9 @@ https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.pb
 4. Confirme e volte à aba **Navegar** → **Extensões de Anime** (ou **Extensões**) para instalar as fontes desejadas.
 
 <details>
-<summary>Usando <strong>Anikku</strong>, outro fork ou versão antiga? Use <code>index.min.json</code></summary>
+<summary>Seu aplicativo não aceita <code>index.pb</code>? Use <code>index.min.json</code></summary>
 
-O **Anikku** e clientes antigos aceitam apenas URLs terminadas em `index.min.json` (o Aniyomi atual também aceita esta URL e resolve automaticamente o catálogo `index.pb` via `repo.json`):
+Alguns aplicativos podem exigir o formato `index.min.json` para adicionar o catálogo. Se o endereço principal não funcionar, copie e utilize a URL abaixo:
 
 ```text
 https://raw.githubusercontent.com/ProjectNox-org/anime-extensoes/repo/index.min.json
